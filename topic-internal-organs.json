@@ -1,0 +1,2722 @@
+{
+  "title": "5. Drugs acting on functions of internal organs",
+  "questions": [
+    {
+      "id": "internal-organs-1",
+      "question": "Choose proper cardiac effects of cardiac glycosides at therapeutic doses:",
+      "options": [
+        "increase in force of heart beats",
+        "decrease in force of heart beats",
+        "tachycardia (acceleration of heart beats)",
+        "bradycardia (deceleration of heart beats)",
+        "increase in conduction",
+        "decrease in conduction"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-2",
+      "question": "Choose proper effects of cardiac glycosides in patients with heart failure:",
+      "options": [
+        "increase in systolic and minute volume of blood",
+        "decrease in systolic and minute volume of blood",
+        "increase in venous pressure",
+        "decrease in venous pressure",
+        "decrease in edemas",
+        "decrease in breathlessness"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-3",
+      "question": "How do cardiac glycosides change diuresis of patients with heart failure?",
+      "options": [
+        "increase",
+        "decrease",
+        "do not change"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-4",
+      "question": "What factor does determine powerful cardiotonic action of cardiac glycosides?",
+      "options": [
+        "accumulation of cardiac glycosides mainly in the myocardium",
+        "high sensitivity of the myocardium to cardiac glycosides"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-5",
+      "question": "How do cardiac glycosides change the content of free ions in myocardium cells?",
+      "options": [
+        "the content of potassium ions is increased",
+        "the content of potassium ions is decreased",
+        "the content of calcium ions is increased",
+        "the content of calcium ions is decreased"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-6",
+      "question": "What of the following cardiac glycosides is well absorbed from the gastrointestinal tract?",
+      "options": [
+        "digoxin",
+        "strophanthin",
+        "digitoxin",
+        "corglycon"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-7",
+      "question": "Choose polar cardiac glycosides (not absorbable from the g.i.t.):",
+      "options": [
+        "strophanthin",
+        "digitoxin",
+        "digoxin",
+        "corglycon"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-8",
+      "question": "Choose drugs of Digitalis:",
+      "options": [
+        "digoxin",
+        "strophanthin",
+        "digitoxin",
+        "corglycon"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-9",
+      "question": "Name drug of Convallaria majalis (lily-of-the-valley)",
+      "options": [
+        "digoxin",
+        "strophanthin",
+        "digitoxin",
+        "corglycon"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-10",
+      "question": "Choose proper features of strophanthin:",
+      "options": [
+        "it is almost NOT absorbed from the g.i.t.",
+        "it is completely absorbed from the g.i.t.",
+        "its action at intravenous administration starts in 5-10 minutes",
+        "its action at intravenous administration starts in 2-4 hours",
+        "maximum effect is produced in 0.5-1.5 hours",
+        "maximum effect is produced in 6-8 hours"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-11",
+      "question": "Choose glycoside which has maximum duration of action and circulates in blood for 2-3 weeks are:",
+      "options": [
+        "digoxin",
+        "strophanthin",
+        "digitoxin",
+        "corglycon"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-12",
+      "question": "Choose proper indications for cardiac glycoside uses:",
+      "options": [
+        "essential hypertension",
+        "tachyarrhythmic form of cardiac fibrilation",
+        "acute heart failure",
+        "chronic heart failure",
+        "renal edema"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-13",
+      "question": "Which of the following glycosides is used in chronic heart failure?",
+      "options": [
+        "digoxin",
+        "strophanthin",
+        "corglycon"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-14",
+      "question": "Choose proper definition of positive inotropic action:",
+      "options": [
+        "intensifying and shortening of a systole",
+        "prolongation of diastole",
+        "delay of conduction through atrioventricular node",
+        "increase in heart excitability",
+        "increase in heart automatism and heart beat frequency"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-15",
+      "question": "Choose proper definition of negative chronotropic action of cardiac glycosides:",
+      "options": [
+        "intensifying and shortening of systole",
+        "prolongation of diastole",
+        "increase in heart beat frequency",
+        "delay of conduction through conductive systme",
+        "increase in myocardium excitability"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-16",
+      "question": "Choose proper definition of negative dromotropic action of cardiac glycosides:",
+      "options": [
+        "intensifying and shortening of systole",
+        "prolongation of diastole",
+        "increase in heart beat frequency",
+        "delay of conduction through conductive system",
+        "increase in myocardium excitability"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-17",
+      "question": "Choose proper definition of positive bathmotropic action of cardiac glycosides:",
+      "options": [
+        "intensifying and shortening of systole",
+        "prolongation of diastole",
+        "increase in heart beat frequency",
+        "delay of conduction through conductive system",
+        "increase in myocardium excitability"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-18",
+      "question": "What is proper mechanism of cardiotonic action of cardiac glycosides?",
+      "options": [
+        "activation of Na +, K +-ATP-ase of cardiac histiocyte membranes",
+        "inhibition of Na +, K +-ATP-ase of cardiac histiocyte membranes",
+        "stimulation of β1-adrenoceptors",
+        "inhibition of phosphodiesterase activity"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-19",
+      "question": "Choose proper non-glycoside cardiotonic drugs:",
+      "options": [
+        "amrinone",
+        "epinephrine",
+        "corglycon",
+        "dopamine",
+        "strophanthin",
+        "dobutamine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-20",
+      "question": "How do adrenergic cardiotonics influence heart work?",
+      "options": [
+        "they increase force of the heart beats",
+        "they decrease force of the heart beats",
+        "they increase frequency of the heart beats",
+        "they decrease frequency of the heart beats",
+        "they increase myocardium oxygen need",
+        "they decrease myocardium oxygen need"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-21",
+      "question": "Choose proper mechanisms of dopamine:",
+      "options": [
+        "inhibition of phosphodiesterase",
+        "stimulation of β1-adrenoceptors",
+        "inhibition of β1-adrenoceptors",
+        "stimulation of dopamine receptors",
+        "block of dopamine receptors"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-22",
+      "question": "What of the following ECG changes are observed at administration of therapeutic doses of digoxin?",
+      "options": [
+        "increase in QRS voltage",
+        "narrowing of QRS",
+        "prolongation of interval PQ",
+        "shortening of interval PP",
+        "prolongation of interval PP"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-23",
+      "question": "Choose proper distinctive features of digoxin action as compared with digitoxin:",
+      "options": [
+        "it is worse absorbed from the gastrointestinal tract",
+        "its effect develops slower",
+        "its effect develops more rapidly",
+        "it is used for the treatment of acute and chronic heart failure",
+        "it is used for the treatment of chronic heart failure only",
+        "it is lesser accumulated"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-24",
+      "question": "Choose proper symptoms of cardiac glycoside intoxication:",
+      "options": [
+        "marked tachycardia",
+        "marked bradycardia",
+        "extrasystoles",
+        "nausea and vomiting",
+        "inhibition of atrioventricular conduction"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-25",
+      "question": "Choose proper principles of pharmacotherapy at intoxication by cardiac glycosides:",
+      "options": [
+        "decrease in potassium ion concentration in cardiac hystiocytes",
+        "increase in potassium ion concentration in cardiac hystiocytes",
+        "decrease in calcium ion concentration in blood plasma",
+        "an increase in calcium ion concentration in blood plasma",
+        "administration of sulfhydryl group donators",
+        "administration of sulfhydryl group blockers"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-26",
+      "question": "What of the following agents are used at cardiac glycosides intoxication?",
+      "options": [
+        "calcium chloride",
+        "potassium chloride",
+        "EDTA (ethylene diamine tetraacetate)",
+        "dimercaprol (unithiol)",
+        "digibind Antiarrhythmic agents"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-27",
+      "question": "Name drugs used in atrioventricular block:",
+      "options": [
+        "neostigmine",
+        "isoprenaline",
+        "azamethonium",
+        "atropine",
+        "epinephrine (adrenaline)"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-28",
+      "question": "Name indications for potassium chloride administration:",
+      "options": [
+        "cardiac glycoside poisoning",
+        "ciliary arrhythmia, extrasystole",
+        "long-term administration of corticosteroids",
+        "use of furosemide",
+        "allergic diseases"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-29",
+      "question": "Which of the following drugs have antiarrhythmic activity?",
+      "options": [
+        "procainamide",
+        "lidocaine",
+        "amiodarone",
+        "salbutamole",
+        "aminophylline (euphylline)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-30",
+      "question": "Name antiarrhythmic drugs from the group of membrane stabilizers (group I):",
+      "options": [
+        "disopyramide",
+        "lidocaine",
+        "amiodarone",
+        "quinidine",
+        "flecainide",
+        "verapamil"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-31",
+      "question": "What changes in the myocardium are caused by quinidine antiarrhythmic action?",
+      "options": [
+        "increase in effective refractory period",
+        "decrease in the effective refractory period",
+        "increase in automatism",
+        "depression of automatism",
+        "inhibition of conduction in conductive system of the heart",
+        "facilitation of conduction in conductive system of the heart"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-32",
+      "question": "How does quinidine affect myocardium contractility?",
+      "options": [
+        "decreases",
+        "stimulates",
+        "does not change"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-33",
+      "question": "Name features of procainamide antiarrhythmic action:",
+      "options": [
+        "it suppresses myocardium contractility less than quinidine",
+        "it suppresses myocardium contractility more than quinidine",
+        "it increases automatism",
+        "it decreases automatism",
+        "it suppresses conduction in conductive system of the heart",
+        "it facilitates conduction in conductive system of the heart"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-34",
+      "question": "Name features of antiarrhythmic action of lidocaine:",
+      "options": [
+        "it increases automatism",
+        "it suppresses ectopic foci of excitation in Purkinje’s fibers and ventricles without changing of sinus node automatism",
+        "it increases the duration of action potential and the effective refractory period",
+        "it decreases the duration of action potential and the effective refractory period",
+        "it does not change myocardium contractility",
+        "it suppresses myocardium contractility"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-35",
+      "question": "Name correct characteristics of lidocaine as antiarrhythmic drug:",
+      "options": [
+        "it is administered intravenously",
+        "its effect develops quickly and continues for 10-20 minutes",
+        "it is administered orally",
+        "its effect develops slowly and lasts for 6-8 hours",
+        "it is used for relief of ventricular arrhythmias",
+        "it is used for the treatment of ciliary atrial arrhythmias"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-36",
+      "question": "Name features of antiarrhythmic action of phenytoin:",
+      "options": [
+        "it does not practically change conduction",
+        "it markedly inhibits conduction",
+        "it decreases the duration of action potential and the effective refractory period",
+        "it inhibits automatism of Purkinje’s fibers",
+        "it does not change myocardium contractility and blood pressure"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-37",
+      "question": "Name antiarrhythmic agents - blockers of sodium channels:",
+      "options": [
+        "propranolol",
+        "procainamide",
+        "verapamil",
+        "quinidine",
+        "propafenone"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-38",
+      "question": "Choose proper indications for blockers of sodium channels?",
+      "options": [
+        "tachyarrhythmia",
+        "bradyarrhythmia",
+        "block of conduction"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-39",
+      "question": "Name an antiarrhythmic drug - a blocker of potassium channels:",
+      "options": [
+        "propranolol",
+        "procainamide",
+        "amiodarone",
+        "verapamil",
+        "ethacizin",
+        "disopyramide"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-40",
+      "question": "Choose proper features of antiarrhythmic action of amiodarone:",
+      "options": [
+        "increase in duration of action potential and effective refractory period",
+        "decrease in effective refractory period",
+        "increase in automatism, conduction and excitability",
+        "decrease in automatism, conduction and excitability",
+        "decrease in heart rate",
+        "increase in heart rate"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-41",
+      "question": "Choose antiarrhythmic agents from the group of β-adrenergic blockers:",
+      "options": [
+        "propranolol",
+        "procainamide",
+        "quinidine",
+        "verapamil",
+        "metoprolol",
+        "moracizin"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-42",
+      "question": "What is proper mechanism of metoprolol antiarrhythmic action?",
+      "options": [
+        "block of β1-adrenoceptors",
+        "block of M – cholinoceptors",
+        "block of calcium channels"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-43",
+      "question": "What is proper mechanism of verapamil antiarrhythmic action?",
+      "options": [
+        "it blocks β1-adrenoreceptors",
+        "it blocks sodium channels",
+        "it blocks calcium channels"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-44",
+      "question": "Choose proper adverse effects of verapamil:",
+      "options": [
+        "tachycardia",
+        "bradycardia",
+        "hypotension",
+        "decrease in myocardium contractility",
+        "bronchospasm"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-45",
+      "question": "Choose proper principles of pharmacotherapy of atrio-ventricular block:",
+      "options": [
+        "intensifying of cholinergic influence on the heart",
+        "weakening of cholinergic influence on the heart",
+        "intensifying of adrenergic influence on the heart",
+        "weakening of adrenergic influence on the heart"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-46",
+      "question": "Choose proper drugs for treatment of block of A-V conduction:",
+      "options": [
+        "atropine",
+        "isoprenaline",
+        "propranolol",
+        "procainamide",
+        "ephedrine Antihypertensive agents"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-47",
+      "question": "Choose antihypertensive agents of the central action:",
+      "options": [
+        "clonidine",
+        "methyldopa",
+        "moxonidine",
+        "sodium nitroprusside",
+        "enalapril"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-48",
+      "question": "Which of the following antihypertensive drugs does stimulate α2-adrenoceptors of the CNS and decrease tone of vasomotor centers, take sedative effect and decrease cardiac output and total peripheral resistance?",
+      "options": [
+        "hydralazine",
+        "prazosin",
+        "clonidine",
+        "propranolol",
+        "captopril"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-49",
+      "question": "Choose proper mechanism of hypotensive action of clonidine:",
+      "options": [
+        "block of angiotensin receptors",
+        "block of angiotensin converting enzyme",
+        "stimulation of α2-adrenoreceptors of the CNS and decrease in vasomotor center activity",
+        "direct spasmolytic action on vessel myofibrils",
+        "peripheral adrenergic blocking action"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-50",
+      "question": "Which of the following adverse effects can occur in clonidine administration?",
+      "options": [
+        "bradycardia",
+        "increase in intraocular pressure",
+        "dry mouth",
+        "hypersalivation",
+        "constipation",
+        "withdrawal syndrome"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-51",
+      "question": "How does clonidine act on the CNS?",
+      "options": [
+        "it depresses the CNS",
+        "it excites the CNS",
+        "it does not change the CNS function"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-52",
+      "question": "Which of the following drugs are agonists of imidazoline I1-receptors?",
+      "options": [
+        "hydralazine",
+        "methyldopa",
+        "moxonidine",
+        "rilmenidine",
+        "reserpine"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-53",
+      "question": "How do agonists of imidazoline receptors differ from clonidine?",
+      "options": [
+        "they have long-term action",
+        "they do not have (or have weak) sedative effect",
+        "they do not produce retention of sodium ions and water in an organism",
+        "they produce retention of sodium and water in the body",
+        "they do not cause rebound hypertension",
+        "they cause rebound hypertension"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-54",
+      "question": "Which of the following antihypertensive drugs are ganglion blockers?",
+      "options": [
+        "trepirium iodide",
+        "hexamethonium benzosulfonate",
+        "propranolol",
+        "reserpine",
+        "captopril"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-55",
+      "question": "Which of the following ganglion blockers is the most suitable for controlled hypotension?",
+      "options": [
+        "trepirium iodide",
+        "trimethaphan camphorsulfonate",
+        "azamethonium bromide",
+        "pempidine tosylate"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-56",
+      "question": "Which of the following antihypertensive drugs are sympatholytics?",
+      "options": [
+        "trepirium iodide",
+        "guanethidine sulfate",
+        "nifedipine",
+        "reserpine",
+        "captopril"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-57",
+      "question": "Which of the following drugs can cause postural hypotension?",
+      "options": [
+        "ganglion blocking agents",
+        "sympatholytics",
+        "myotropic spasmolytics",
+        "β-adrenergic blockers",
+        "α-adrenergic blockers"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-58",
+      "question": "Which of the following drugs can cause postural hypotension?",
+      "options": [
+        "hydrochlorothiazide",
+        "phenoxybenzamine",
+        "propranolol",
+        "bendazol",
+        "captopril"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-59",
+      "question": "Choose proper mechanism of reserpine antihypertensive action:",
+      "options": [
+        "block of angiotensin receptors",
+        "depletion of noradrenalin store in nerve endings",
+        "block of β-adrenoceptors",
+        "block of α-adrenoceptors"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-60",
+      "question": "Choose correct statements for reserpine:",
+      "options": [
+        "it is alkaloid of rauwolfia",
+        "it has sedative action",
+        "it has NOT sedative action",
+        "it is superior to guanethidine in hypotensive activity",
+        "it is inferior to guanethidine in hypotensive activity",
+        "it improves secretory and motor activity of the g.i.t."
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-61",
+      "question": "Choose proper adverse effects of reserpine:",
+      "options": [
+        "diarrhea",
+        "constipation",
+        "gastric ulcer",
+        "leukocytopenia",
+        "swelling of nasal mucosa",
+        "bradycardia"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-62",
+      "question": "Which of the following hypotensive combinations does contain reserpine?",
+      "options": [
+        "adelphan",
+        "crystepin",
+        "brinerdine",
+        "tenoretic (tenoric)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-63",
+      "question": "Choose antihypertensive drugs from the group of β-adrenergic blockers:",
+      "options": [
+        "atenolol",
+        "metoprolol",
+        "propranolol",
+        "hydrochlorothiazide",
+        "methyldopa"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-64",
+      "question": "Choose possible mechanisms of hypotensive action of β-adrenergic blockers:",
+      "options": [
+        "decrease in renin secretion",
+        "decrease in heart work, stroke volume and cardiac output",
+        "depression of angiotensin-converting enzyme activity",
+        "block of angiotensin receptors",
+        "block of sympathetic ganglia"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-65",
+      "question": "Choose proper adverse effects of β-adrenergic blockers:",
+      "options": [
+        "orthostatic hypotension",
+        "tachycardia",
+        "marked bradycardia",
+        "bronchospesm",
+        "male impotence"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-66",
+      "question": "Choose proper antihypertensives from the group of α-adrenergic blockers:",
+      "options": [
+        "atenolol",
+        "clonidine",
+        "prazosin",
+        "doxazosin"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-67",
+      "question": "Choose antihypertensive drugs with myotropic action:",
+      "options": [
+        "bendazol",
+        "doxazosin",
+        "moxonidine",
+        "hydralazine",
+        "minoxidil",
+        "molsidomin"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-68",
+      "question": "Choose proper myotropic nitrovasodilators:",
+      "options": [
+        "bendazol",
+        "doxazosin",
+        "moxonidine",
+        "molsidomin",
+        "sodium nitroprusside"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-69",
+      "question": "Choose proper mechanism of hypotensive action of bendazol:",
+      "options": [
+        "block of angiotensin receptors",
+        "block of angiotensin-converting enzyme",
+        "stimulation of the CNS α2-adrenoreceptors",
+        "direct spasmolytic action on vessel myofibrils",
+        "peripheral α-adrenergic blocking action"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-70",
+      "question": "Which of the following drugs are blockers of calcium channels?",
+      "options": [
+        "amlodipine",
+        "atenolol",
+        "nifedipine",
+        "diltiazem",
+        "lacidipine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-71",
+      "question": "Name proper indications for administration of calcium channel blockers:",
+      "options": [
+        "essential hypertension",
+        "tachyarrhythmias",
+        "block of atrioventricular conduction",
+        "ischemic heart disease",
+        "chronic hypotension"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-72",
+      "question": "Which of the following calcium channel blockers do have greater tropism to vessels?",
+      "options": [
+        "derivatives of dihydropyridine",
+        "derivatives of benzothiazepine",
+        "derivatives of phenylalkylamine"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-73",
+      "question": "Which of the following calcium channel blockers do have greater tropism to heart muscle?",
+      "options": [
+        "derivatives of dihydropyridine",
+        "derivatives of benzothiazepine",
+        "derivatives of phenylalkylamine"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-74",
+      "question": "Which of the following calcium channel blockers do have similar tropism either to vessels and the heart?",
+      "options": [
+        "derivatives of dihydropyridine",
+        "derivatives of benzothiazepine",
+        "derivatives of phenylalkylamine"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-75",
+      "question": "Choose calcium channel-blocking agents - derivatives of dihydropyridine:",
+      "options": [
+        "amlodipine",
+        "verapamil",
+        "nifedipine",
+        "diltiazem",
+        "lacidipine",
+        "isradipine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-76",
+      "question": "Which of the following drugs are administered to relieve hypertensic crisis?",
+      "options": [
+        "clonidine",
+        "propranolol",
+        "magnesium sulfate",
+        "furosemide",
+        "sodium nitroprusside",
+        "isradipine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-77",
+      "question": "Which of the following drugs are blockers of angiotensin-converting enzyme?",
+      "options": [
+        "captopril",
+        "propranolol",
+        "enalapril",
+        "lisinopril",
+        "trandolapril",
+        "isradipine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-78",
+      "question": "Choose proper mechanism of hypotensive action of enalapril:",
+      "options": [
+        "block of angiotensin receptors",
+        "block of angiotensin-converting enzyme",
+        "decrease in vasomotor center activity",
+        "direct spasmolytic action on vessels",
+        "peripheral α-adrenoblocking action"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-79",
+      "question": "How do inhibitors of angiotensin-converting enzyme influence metabolism of bradykinin?",
+      "options": [
+        "they inhibit its degradation",
+        "they activate its destruction",
+        "they do not change its metabolism"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-80",
+      "question": "Choose proper adverse effects of angiotensin-converting enzyme inhibitors:",
+      "options": [
+        "throat tickling and dry cough",
+        "increase in ABP",
+        "hyperkalemia",
+        "depression of the CNS",
+        "disturbance of gustatory sense (dysguesia)"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-81",
+      "question": "Which of the following statements are correct for angiotensin-converting enzyme inhibitors?",
+      "options": [
+        "they have nephroprotective and cardioprotective effects",
+        "they have hypolipidemic effect",
+        "they do not depress the CNS and autonomic nervous system",
+        "they are used in pregnancy",
+        "they improve life quality"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-82",
+      "question": "Which of the following angiotensin-converting enzyme inhibitors are lipophilic prodrugs?",
+      "options": [
+        "captopril",
+        "enalapril",
+        "fosinopril",
+        "trandolapril",
+        "lisinopril"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-83",
+      "question": "Choose proper indications for the administration of angiotensin-converting enzyme inhibitors:",
+      "options": [
+        "idiopathic hypertension",
+        "chronic hypotension",
+        "chronic heart failure",
+        "ischemic heart disease",
+        "bradyarrhythmia"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-84",
+      "question": "Choose proper mechanism of losartan hypotensive action:",
+      "options": [
+        "block of angiotensin receptors",
+        "block of angiotensin-converting enzyme",
+        "decrease in vasomotor center activity",
+        "direct spasmolytic activity on vessels",
+        "peripheral α – adrenergic blocking action"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-85",
+      "question": "Choose proper blockers of angiotensin II receptors:",
+      "options": [
+        "valsartan",
+        "enalapril",
+        "lisinopril",
+        "losartan",
+        "isradipine"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-86",
+      "question": "Choose correct statements for blockers of angiotensin receptors:",
+      "options": [
+        "they disturb metabolism of bradykinin",
+        "they do not disturb metabolism of bradykinin",
+        "they have less adverse effect than inhibitors of angiotensin-converting enzyme",
+        "they have more adverse effects than inhibitors of angiotensin-converting enzyme",
+        "they are not inferior to inhibitors of angiotensin-converting enzyme in hypotensive effect",
+        "they are inferior to inhibitors of angiotensin-converting enzyme in hypotensive effect Agents used for ischemic heart disease"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-87",
+      "question": "Which of the following drugs is used to control angina pectoris attack?",
+      "options": [
+        "diltiazem",
+        "nitroglycerine",
+        "dipyridamole",
+        "sustac"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-88",
+      "question": "Choose proper antianginal drug which has the following mechanism of action: it decreases tone of coronary vessels, increases coronary blood flow rate, increases adenosine concentration in myocardium, decreases platelet aggregation and does not influence myocardium oxygen demand:",
+      "options": [
+        "nitroglycerine",
+        "propranolol",
+        "verapamil",
+        "dipyridamole"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-89",
+      "question": "Choose proper drug which has the following adverse reactions: decrease in myocardium contractility, bradycardia, hypotension, bronchospasm, withdrawal syndrome:",
+      "options": [
+        "nitroglycerine",
+        "dipyridamole",
+        "verapamil",
+        "propranolol",
+        "aminophylline (euphylline)"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-90",
+      "question": "Choose proper nitroglycerine preparations of long-term action:",
+      "options": [
+        "trinitrolong",
+        "trinitrogranulong",
+        "nitrong",
+        "amiodarone"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-91",
+      "question": "Choose proper mechanisms of nitroglycerine action in angina pectoris:",
+      "options": [
+        "reflex coronary vasodilating action",
+        "decrease in myocardium oxygen demands due to decrease in heart work (decrease in preload and afterload)",
+        "myotropic coronary vasodilating action",
+        "block of slow calcium channels"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-92",
+      "question": "Choose proper mechanism of validol action in angina pectoris:",
+      "options": [
+        "reflex coronary vasodilating action",
+        "decrease in myocardium oxygen demands due to decrease in heart work (decrease in preload and afterload)",
+        "myotropic coronary vasodilating action",
+        "block of slow calcium channels"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-93",
+      "question": "How do nitrates cause relaxation of smooth muscles of vessels?",
+      "options": [
+        "they block α1-adrenoceptors",
+        "they block β2-adrenoceptors",
+        "they are NO donators",
+        "they block phosphodiesterase",
+        "they block adenosine receptors"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-94",
+      "question": "Which of the following drugs are organic nitrates?",
+      "options": [
+        "isosorbide mononitrate",
+        "isosorbide dinitrate",
+        "nitroglycerine",
+        "amiodarone",
+        "dipyridamole"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-95",
+      "question": "Choose proper adverse effects of nitroglycerine:",
+      "options": [
+        "bradycardia",
+        "tachycardia",
+        "headache, dizziness",
+        "decrease in arterial blood pressure",
+        "increase in arterial blood pressure"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-96",
+      "question": "Does tolerance to nitrates occur?",
+      "options": [
+        "it does not occur",
+        "it occurs to nitroglycerine only",
+        "it occurs to drugs with long-term action only",
+        "it occurs to all nitrates at a long-term administration"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-97",
+      "question": "Choose correct statements for nitroglycerine:",
+      "options": [
+        "it is administered for relief of angina pectoris attacks",
+        "it is administered for prevention of angina pectoris attacks",
+        "its effect starts in 2-3 minutes",
+        "its effect starts in 10-20 minutes",
+        "duration of its effect is 4 hours",
+        "its effect is short- term (up to 30 minutes)"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-98",
+      "question": "Choose proper β-adrenergic blockers among the following antianginals:",
+      "options": [
+        "verapamil",
+        "propranolol",
+        "diltiazem",
+        "metoprolol",
+        "dipyridamole"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-99",
+      "question": "Choose proper mechanism of antianginal action of β –adrenergic blocker in angina pectoris?",
+      "options": [
+        "decrease in myocardium oxygen demands due to decrease in heart work",
+        "direct myotropic coronary vasodilating action",
+        "reflex coronary vasodilating action"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-100",
+      "question": "Choose proper advantage of metoprolol as antianginal agent as compared to propranolol?",
+      "options": [
+        "it does not decrease arterial blood pressure",
+        "it causes bronchospasm less often",
+        "it does not disturb atrioventricular conduction"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-101",
+      "question": "Choose proper antianginal agents - blockers of calcium channels:",
+      "options": [
+        "dipyridamole",
+        "verapamil",
+        "diltiazem",
+        "mibefradil",
+        "atenolol"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-102",
+      "question": "Choose proper blocker of calcium channels of T-type:",
+      "options": [
+        "nifedipine",
+        "verapamil",
+        "diltiazem",
+        "mibefradil",
+        "nicardipine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-103",
+      "question": "Choose proper blockers of slow calcium channels of L-type:",
+      "options": [
+        "isradipine",
+        "verapamil",
+        "diltiazem",
+        "mibefradil",
+        "nicardipine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-104",
+      "question": "Choose proper mechanisms of action of calcium channel blockers in angina pectoris:",
+      "options": [
+        "decrease in myocardium oxygen demands due to decrease in heart work",
+        "dilatation of coronary vessels and increase in oxygen delivery to the heart",
+        "reflex coronary vasodilating action"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-105",
+      "question": "Choose proper groups of drugs used for treatment of myocardial infarction:",
+      "options": [
+        "narcotic analgesics",
+        "anticoagulants",
+        "hemostatic agents",
+        "antiaggregants",
+        "stimulators of thrombocyte aggregation",
+        "antiarrhythmic agents"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-106",
+      "question": "Choose proper drug of choice to control ventricular arrhythmias in myocardial infarction:",
+      "options": [
+        "lidocaine",
+        "quinidine",
+        "propranolol"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-107",
+      "question": "Which of the following drugs dose increase cardiac histiocyte resistance to ischemia?",
+      "options": [
+        "propranolol",
+        "trimetazidine",
+        "amiodarone",
+        "verapamil Diuretics"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-108",
+      "question": "Choose characteristics of hydrochlorothiazide action:",
+      "options": [
+        "its duration of action is 4-8 hours",
+        "its duration of action is 8-12 hours",
+        "it decreases arterial blood pressure in arterial hypertension",
+        "it weakens activity of antihypertensives",
+        "it potentiates activity of antihypertensive drugs",
+        "the effect develops in 10 minutes after administration"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-109",
+      "question": "Choose characteristics of furosemide action:",
+      "options": [
+        "slow development of effect",
+        "fast development of effect",
+        "short-term action (2-4 hours)",
+        "mild-to-moderate diuretic activity",
+        "high diuretic activity"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-110",
+      "question": "Choose proper diuretics acting mainly the ascending limb of Henle's loop:",
+      "options": [
+        "torasemide",
+        "spironolactone",
+        "ethacrynic acid",
+        "furosemide",
+        "acetazoleamide (diacarb)"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-111",
+      "question": "Choose thiazide and thiazide-like diuretics among the following drugs:",
+      "options": [
+        "chlorothiazide",
+        "hydrochlorothiazide",
+        "indapamide",
+        "clopamide",
+        "torasemide"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-112",
+      "question": "Choose proper potassium-sparing diuretics:",
+      "options": [
+        "mannitol",
+        "triamterene",
+        "spironolactone",
+        "acetazoleamide (diacarb)",
+        "furosemide"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-113",
+      "question": "Choose osmotic diuretic among the following drugs:",
+      "options": [
+        "ethacrynic acid",
+        "furosemide",
+        "hydrochlorothiazide",
+        "mannitol",
+        "spironolactone"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-114",
+      "question": "Choose diuretic - inhibitor of carbonic anhydrase among the following drugs:",
+      "options": [
+        "spironolactone",
+        "acetazoleamide (diacarb)",
+        "furosemide",
+        "triamterene",
+        "hydrochlorothiazide (hypothiazide)"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-115",
+      "question": "Which of the following adverse effects are WRONG for thiazide diuretics?",
+      "options": [
+        "hyperkalemia",
+        "hypokalemia",
+        "hyperuricemia",
+        "hyperglycemia",
+        "hypochloremic alkalosis",
+        "hypercholesterinemia"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-116",
+      "question": "Choose proper adverse effects of loop diuretics:",
+      "options": [
+        "hyperkalemia",
+        "hypokalemia",
+        "hyperuricemia",
+        "ototoxicity",
+        "hypochloremic alkalosis",
+        "hypertension"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-117",
+      "question": "Choose proper adverse effects of spironolactone:",
+      "options": [
+        "hyperkalemia",
+        "hypokalemia",
+        "gynecomastia and impotence in males",
+        "hirsutism and dysmenorrhea in females",
+        "hyperchloremic acidosis",
+        "hypercholesterinemia"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-118",
+      "question": "Which of the following drugs does block aldosterone receptors?",
+      "options": [
+        "spironolactone",
+        "hydrochlorothiazide",
+        "chlorthalidone",
+        "amiloride"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-119",
+      "question": "Which of the following diuretics has steroid structure?",
+      "options": [
+        "furosemide",
+        "hydrochlorothiazide (hypothiazide)",
+        "chlorthalidone (oxodoline)",
+        "acetazoleamide (diacarb)",
+        "spironolactone"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-120",
+      "question": "Which of following drugs does produce diuretic effect by improvement of renal blood flow and glomerular filtration?",
+      "options": [
+        "inhibitors of carbonic anhydrase",
+        "thiazide diuretics",
+        "xanthines",
+        "osmotic diuretics",
+        "aldosterone antagonists"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-121",
+      "question": "Choose plants which have diuretic action:",
+      "options": [
+        "flowers of Centaurea (cornflower)",
+        "cortex Quercus (bark of oak)",
+        "leaves of Salvia",
+        "leaves of Arctostaphylos (Manzanita)",
+        "herb of Equisetum arvense (common horsetail)"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-122",
+      "question": "Which of the following diuretics do act mostly in proximal renal tubules?",
+      "options": [
+        "osmotic diuretics",
+        "acetazoleamide (diacarb)",
+        "thiazide diuretics",
+        "potassium-sparing diuretics"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-123",
+      "question": "Which of the following diuretics act mostly in early part of distal renal tubules?",
+      "options": [
+        "osmotic diuretics",
+        "thiazide diuretics",
+        "potassium-sparing diuretics",
+        "loop diuretics"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-124",
+      "question": "Which of the following diuretics act mainly in collecting ducts and distal renal tubules?",
+      "options": [
+        "osmotic diuretics",
+        "inhibitors of carbonic anhydrase",
+        "potassium-sparing diuretics",
+        "loop diuretics"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-125",
+      "question": "Which of the following diuretics is administered in hypertensic crisis?",
+      "options": [
+        "furosemide",
+        "hydrochlorothiazide (hypothiazide)",
+        "chlorthalidone (oxodoline)",
+        "acetazoleamide (diacarb)",
+        "spironolactone"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-126",
+      "question": "Which of the following diuretics are more frequently used for the treatment of idiopathic hypertension?",
+      "options": [
+        "osmotic diuretics",
+        "thiazide diuretics",
+        "potassium-sparing diuretics",
+        "inhibitors of carbonic anhydrase"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-127",
+      "question": "What is proper mechanism of hypotensive effect of thiazide diuretics?",
+      "options": [
+        "decrease in blood circulation volume",
+        "decrease in sodium concentration in vessel wall",
+        "inhibition of phosphodiesterase and spasmolytic action on vessels",
+        "sympatholytic action"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-128",
+      "question": "Choose proper diuretics of long-term action:",
+      "options": [
+        "furosemide",
+        "hydrochlorothiazide (hypothiazide)",
+        "chlorthalidone (oxodoline)",
+        "mannitol",
+        "spironolactone"
+      ],
+      "correctAnswers": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-129",
+      "question": "Which of the following drugs are used in alkalosis?",
+      "options": [
+        "dimephosphonum",
+        "acetazoleamide",
+        "trisamine",
+        "sodium hydrocarbonate",
+        "potassium chloride"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-130",
+      "question": "Which of the following drugs are used in acidosis?",
+      "options": [
+        "dimephosphonum",
+        "acetazoleamide (diacarb)",
+        "trisamine",
+        "mannitol",
+        "sodium hydrocarbonate"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-131",
+      "question": "Choose colloids (plasma substitutes) manufactured on the base of dextran:",
+      "options": [
+        "polyvidone (haemodesum)",
+        "polyglucinum",
+        "rheopolyglucinum",
+        "rehydron",
+        "rheogluman Agents influencing functions of respiratory system"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-132",
+      "question": "What of the following drugs can be used as stimulants of breathing?",
+      "options": [
+        "nikethamide",
+        "caffeine",
+        "orciprenaline sulfate",
+        "ethimizol",
+        "codeine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-133",
+      "question": "Choose correct statements for prenoxdiazine:",
+      "options": [
+        "depresses cough reflex by peripheral action",
+        "it is equipotent to codeine on antitussive efficacy",
+        "depresses cough centre",
+        "desensitizes sensory nerve endings",
+        "does not produce tolerance and drug dependence"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-134",
+      "question": "Antitussives of peripheral action are:",
+      "options": [
+        "codeine",
+        "tusuprex",
+        "prenoxdiazine",
+        "glaucine hydrochloride",
+        "tipepidine"
+      ],
+      "correctAnswers": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-135",
+      "question": "Choose proper antitussives of central action:",
+      "options": [
+        "codeine",
+        "oxeladin",
+        "prenoxdiazine",
+        "glaucine hydrochloride",
+        "tipepidine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-136",
+      "question": "Which of the following antitussives is opium alkaloid?",
+      "options": [
+        "codeine",
+        "oxeladin",
+        "prenoxdiazine",
+        "glaucine hydrochloride",
+        "tipepidine"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-137",
+      "question": "Which of the following drugs do stimulate surfactant synthesis?",
+      "options": [
+        "codeine",
+        "ambroxol",
+        "bromhexine",
+        "glaucine hydrochloride",
+        "ethimizol"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-138",
+      "question": "Which of the following drugs do have expectorant action?",
+      "options": [
+        "drugs of Althaea (marsh-mallow)",
+        "ambroxol",
+        "acetylcysteine",
+        "mucaltin",
+        "ethimizol"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-139",
+      "question": "Choose expectorants with reflex action:",
+      "options": [
+        "preparations of thermopsis",
+        "ambroxol",
+        "acetylcysteine",
+        "preparations of marsh-mallow (althaea)",
+        "sodium benzoate"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-140",
+      "question": "Which of the following mucolytics depolymerize sputum due to free sulfhydryl group:",
+      "options": [
+        "carbocysteine",
+        "bromhexine",
+        "acetylcysteine",
+        "trypsin",
+        "sodium hydrocarbonate"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-141",
+      "question": "Choose proper uses of Salbutamol:",
+      "options": [
+        "stimulation of respiratory center",
+        "relief of angina pectoris attacks",
+        "bronchospasm",
+        "to decrease tone and contractility of the uterus",
+        "to decrease gastric secretion"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-142",
+      "question": "Which of the following effects does bromhexine have?",
+      "options": [
+        "cardiotonic",
+        "broncholytic",
+        "mucolytic",
+        "it stimulates surfactant synthesis",
+        "it inhibits acetylcholinesterase"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-143",
+      "question": "Choose proper mechanism of broncholytic effect of ipratropium bromide:",
+      "options": [
+        "inhibition of phosphodiesterase",
+        "β2-adrenomimetic action",
+        "block of muscarinic receptors",
+        "antileukotriene action",
+        "other mechanisms"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-144",
+      "question": "Which of the following bronchial antispasmodics are muscarinic receptor blockers?",
+      "options": [
+        "ipratropium bromide",
+        "oxitropium bromide",
+        "formoterol",
+        "terbutaline",
+        "ketotifen"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-145",
+      "question": "Which of the following bronchial antispasmodics stimulate β2-adrenoceptors of bronchi?",
+      "options": [
+        "ipratropium bromide",
+        "salbutamol",
+        "fenoterol",
+        "terbutaline",
+        "ketotifen",
+        "aminophylline (euphylline)"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-146",
+      "question": "Choose glucocorticoid among the following drugs:",
+      "options": [
+        "oxitropium bromide",
+        "beclomethasone",
+        "fenoterol",
+        "terbutaline",
+        "aminophylline"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-147",
+      "question": "Choose methylxanthines among bronchial spasmolytics:",
+      "options": [
+        "theophylline",
+        "beclomethasone",
+        "theobromine",
+        "terbutaline",
+        "aminophylline"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-148",
+      "question": "Choose drugs which have antileukotriene mechanism of action:",
+      "options": [
+        "ketotifen",
+        "nedocromil",
+        "fenoterol",
+        "zileuton",
+        "zafirlukast"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-149",
+      "question": "Which of the following drugs does block 5-lipoxygenase enzyme and leukotriene synthesis?",
+      "options": [
+        "ketotifen",
+        "nedocromil",
+        "fenoterol",
+        "zileuton",
+        "zafirlukast"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-150",
+      "question": "Choose leukotriene receptor blockers:",
+      "options": [
+        "montelukast",
+        "nedocromil",
+        "fenoterol",
+        "theophylline",
+        "zafirlukast (acolate)"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-151",
+      "question": "Choose drugs used as antifoaming agent in pulmonary edema:",
+      "options": [
+        "antifomsilanum",
+        "nedocromil",
+        "fenoterol",
+        "aminophylline (theophylline soluble)",
+        "ethanol"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-152",
+      "question": "Choose drugs used in distress-syndrome of newborns:",
+      "options": [
+        "colfosceril palmitate",
+        "alveofact",
+        "ketotifen",
+        "cromolyn sodium",
+        "prenoxdiazine Agents acting on functions of digestive system and myometrium"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-153",
+      "question": "Choose inhibitors of gastric secretion:",
+      "options": [
+        "sodium bicarbonate",
+        "ranitidine",
+        "omeprazole",
+        "pirenzepine",
+        "sucralfate"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-154",
+      "question": "Choose H2-histamine receptor blockers among the following antisecretory agents:",
+      "options": [
+        "pirenzepine",
+        "cimetidine",
+        "famotidine",
+        "roxatidine",
+        "lansoprazole",
+        "misoprostol"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-155",
+      "question": "What of the following statements is typical for ranitidine?",
+      "options": [
+        "it reduces hydrochloric acid secretion in parietal cell of the stomach mucosa",
+        "it is H2 -histaminic receptor blocker",
+        "it has antiandrogenic action",
+        "it influences cytochrome P450 system",
+        "it neutralizes hydrochloric acid in the stomach"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-156",
+      "question": "Choose proton pump inhibitors among the following antisecretory agents:",
+      "options": [
+        "pirenzepine",
+        "cimetidine",
+        "famotidine",
+        "lansoprazole",
+        "omeprazole"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-157",
+      "question": "Choose proper mechanism of omeprazole action:",
+      "options": [
+        "it is H2 -histamine receptor blocker",
+        "it is M1 -receptor blocker",
+        "it has antacid effect",
+        "it is inhibitor of the proton pump of gastric parietal cells",
+        "it stimulates synthesis of prostaglandins in gastric mucosa"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-158",
+      "question": "Choose proper definition of antacids:",
+      "options": [
+        "drugs which improve defensive factors of gastric mucosa",
+        "drugs which inhibit secretion of hydrochloric acid and pepsin",
+        "drugs which neutralize hydrochloric acid in the stomach",
+        "drugs which stimulate regeneration of gastric mucosa"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-159",
+      "question": "Choose proper definition of gastroprotectants:",
+      "options": [
+        "drugs which improve defensive factors of gastric mucosa",
+        "drugs which inhibit secretion of hydrochloric acid and pepsin",
+        "drugs which neutralize hydrochloric acid in the stomach",
+        "drugs which stimulate regeneration of gastric mucosa",
+        "drugs which inhibit activity of Helicobacter pylori"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "internal-organs-160",
+      "question": "Which of the following drugs are gastroprotectants?",
+      "options": [
+        "pirenzepine",
+        "colloidal bismuth subcitrate",
+        "famotidine",
+        "sucralfate",
+        "misoprostol",
+        "omeprazole"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-161",
+      "question": "Choose proper mechanism of spasmolytic action of papaverine and drotaverine:",
+      "options": [
+        "inhibition of COX",
+        "inhibition of phospholipase A2",
+        "inhibition of phosphodiesterase",
+        "block of M - cholinergic receptors",
+        "antihistaminic activity (block of Н1 histamine receptors)"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-162",
+      "question": "Which of the following drugs are hepatoprotectants?",
+      "options": [
+        "magnesium sulfate",
+        "essentiale",
+        "silimarin",
+        "ademetionine",
+        "allochol"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-163",
+      "question": "Which of the following drugs inhibit gall stone formation?",
+      "options": [
+        "allochol",
+        "silimarin",
+        "ursodeoxycholic acid",
+        "chenodesoxycholic acid",
+        "bisacodyl"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-164",
+      "question": "What of the following herbal drugs improve bile secretion?",
+      "options": [
+        "Ramnus (buckthorn) bark",
+        "Helichrýsum arenárium (immortelle) flowers",
+        "Rheum-palmatum (rhubarb root)",
+        "Stigma Maydis (corn stigma)",
+        "Tanacetum vulgare (tansy) flowers",
+        "Senna leaves"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-165",
+      "question": "Choose proper mechanisms of action of cholekinetics:",
+      "options": [
+        "irritation of the duodenum and activation of intestinal motility",
+        "contraction of the gallbladder and oddi's sphincter relaxation",
+        "gallbladder relaxation and oddi's sphincter contraction",
+        "increase in osmotic pressure in the intestinal lumen",
+        "increase in osmotic pressure in the gallbladder and bile liquefaction"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "internal-organs-166",
+      "question": "What of the following drugs do have antiemetic effect?",
+      "options": [
+        "magnesium sulfate",
+        "metoclopramide",
+        "domperidone",
+        "mosapride",
+        "apomorphine hydrochloride"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-167",
+      "question": "Which of the following antiemetics are blockers of serotonin 5HT3-receptors?",
+      "options": [
+        "perphenazine",
+        "scopolamine",
+        "ondansetron",
+        "metoclopramide",
+        "tropisetron"
+      ],
+      "correctAnswers": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-168",
+      "question": "Choose correct statements for metoclopramide:",
+      "options": [
+        "it stimulates D2-receptors of trigger -zone of the vomiting center",
+        "it blocks D2-receptors of trigger - zone of the vomiting center",
+        "it has antiemetic action",
+        "it produces development of vomiting reflex",
+        "it has prokinetic action"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-169",
+      "question": "Choose purgatives among the following drugs:",
+      "options": [
+        "essentiale",
+        "magnesium sulfate",
+        "bisacodyl",
+        "senade, senadexine",
+        "diosmectite"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-170",
+      "question": "Choose vegetable purgatives containing anthraquinone glycosides:",
+      "options": [
+        "lactulose",
+        "castor oil",
+        "oxyphenysatine",
+        "senade",
+        "rhamnil"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-171",
+      "question": "What is a mechanism of purgative action of anthraquinone glycosides?",
+      "options": [
+        "increase in osmotic pressure in the intestinal lumen",
+        "swelling of anthraquinone glycosides and mechanical stimulation of peristalsis",
+        "stimulation of chemoreceptors of the large intestine",
+        "formation of ricinoleic acids and activation of chemoreceptors of the intestine"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-172",
+      "question": "What is a mechanism of purgative action of castor oil?",
+      "options": [
+        "increase in osmotic pressure in the intestinal lumen",
+        "formation of anthraquinone glycoside in the duodenum",
+        "stimulation of chemoreceptors of the large intestine",
+        "formation of ricinoleic acids and activation of chemoreceptors of large intestine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-173",
+      "question": "What is a mechanism of purgative action of magnesium sulfate?",
+      "options": [
+        "block of Na +/K +-ATPase of the large intestine epithelium",
+        "increase in osmotic pressure in the intestinal lumen",
+        "delay of water absorption",
+        "increase in volume of bowel masses",
+        "distention of the intestine and stimulation of peristalsis"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-174",
+      "question": "Which of the following purgatives do act primarily on the large intestine?",
+      "options": [
+        "oxyphenysatine",
+        "magnesium sulfate",
+        "castor oil",
+        "liquid paraffin",
+        "extract of Ramnus (buckthorn) bark",
+        "drugs of senna"
+      ],
+      "correctAnswers": [
+        0,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "internal-organs-175",
+      "question": "Which of the following purgatives do act over the whole intestine?",
+      "options": [
+        "oxyphenysatine",
+        "magnesium sulfate",
+        "castor oil",
+        "senade",
+        "extract of Ramnus (buckthorn) bark"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-176",
+      "question": "Choose symptomatic drugs for diarrhoea treatment:",
+      "options": [
+        "attapulgite",
+        "diosmectite (smecta)",
+        "loperamide",
+        "sulfaguanidine",
+        "dimeticone (simethicone)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "internal-organs-177",
+      "question": "Which of the following drugs does decrease gas-formation and is used in meteorism?",
+      "options": [
+        "oxyphenysatine",
+        "loperamide",
+        "castor oil",
+        "dimeticone (simethicone)",
+        "lactulose"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "internal-organs-178",
+      "question": "Choose drugs which normalize intestinal microflora:",
+      "options": [
+        "bifidumbacterin",
+        "amoxicillin",
+        "bactisubtil",
+        "maalox",
+        "bificol"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-179",
+      "question": "Choose proper features of dinoprost (prostaglandin F2α):",
+      "options": [
+        "it increases myometrium contraction independently on term and presence of pregnancy",
+        "it dilates pulmonary vessels",
+        "it increases motility of the g.i.t.",
+        "it decreases tone of bronchi",
+        "it dilates cervix of the uterus"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "internal-organs-180",
+      "question": "Which of the following drugs are used to stimulate labour activity?",
+      "options": [
+        "dinoprost",
+        "oxytocin",
+        "progesterone",
+        "fenoterol",
+        "ergometrine"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    }
+  ]
+}

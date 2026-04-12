@@ -1,0 +1,1461 @@
+{
+  "title": "4. Drugs acting on metabolism",
+  "questions": [
+    {
+      "id": "metabolism-1",
+      "question": "What is a mechanism of decrease in vascular permeability by drugs containing ascorbic acid and bioflavonoids?",
+      "options": [
+        "stimulation of collagen synthesis",
+        "activation of hyaluronidase",
+        "participation in metabolism of calcium and phosphorus ions",
+        "inhibition of collagen synthesis",
+        "inhibition of hyaluronidase"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-2",
+      "question": "What of the following are preparations of vitamin B6?",
+      "options": [
+        "riboflavin",
+        "cyanocobalamin",
+        "thiamine",
+        "pyridoxine hydrochloride",
+        "pyridoxal phosphate"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-3",
+      "question": "Which of the following drugs is coenzyme form of vitamin В6?",
+      "options": [
+        "riboflavin",
+        "cyanocobalamin",
+        "phosphothiamine",
+        "pyridoxine hydrochloride",
+        "pyridoxal phosphate"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "metabolism-4",
+      "question": "Which of the following vitamin preparations have antianemic action?",
+      "options": [
+        "folic acid",
+        "cyanocobalamin",
+        "ergocalciferol",
+        "tocopherol",
+        "nicotinic acid"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "metabolism-5",
+      "question": "Which of the following vitamin preparation has antirachitic action?",
+      "options": [
+        "pyridoxine",
+        "cyanocobalamin",
+        "tocopherol",
+        "ergocalciferol",
+        "nicotinic acid"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-6",
+      "question": "What of the following is preparation of vitamin B12?",
+      "options": [
+        "riboflavin mononucleotide",
+        "thiamine",
+        "pyridoxine",
+        "cyanocobalamin",
+        "pantothenic acid"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-7",
+      "question": "What of the following are preparations of vitamin B1?",
+      "options": [
+        "riboflavin",
+        "thiamine",
+        "cyanocobalamin",
+        "phosphothiamine",
+        "pyridoxine"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-8",
+      "question": "Which of the following drugs is coenzymatic form of vitamin В1?",
+      "options": [
+        "riboflavin",
+        "thiamine",
+        "cyanocobalamin",
+        "cocarboxylase",
+        "pyridoxine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-9",
+      "question": "Which of the following vitamin preparations has antioxidant action?",
+      "options": [
+        "folic acid",
+        "cyanocobalamin",
+        "pyridoxal",
+        "tocopherol",
+        "ergocalciferol"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-10",
+      "question": "Choose proper indications for tocopherol acetate use:",
+      "options": [
+        "hemorrhagic diathesis",
+        "danger of miscarriage",
+        "rheumatoid arthritis",
+        "muscle dystrophia",
+        "hemeralopia"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-11",
+      "question": "Choose proper indications for vitamin A use:",
+      "options": [
+        "hemorrhagic diathesis",
+        "threatened miscarriage",
+        "skin burn",
+        "dermatitis",
+        "hemeralopia"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-12",
+      "question": "Choose proper indications for therapeutic use of vitamin D:",
+      "options": [
+        "hemorrhagic diathesis",
+        "threatened miscarriage",
+        "rickets",
+        "osteodystrophy",
+        "hemeralopia"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-13",
+      "question": "Choose proper indications for uses of vitamin K preparations:",
+      "options": [
+        "hemorrhagic diathesis",
+        "hypoprothrombinemia",
+        "rachitis",
+        "osteodystrophy",
+        "liver cirrhosis"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-14",
+      "question": "At which of the following drug prescription do prothrombin time and blood coagulation need monitoring?",
+      "options": [
+        "Menadione (vit K3)",
+        "tocopherol acetate",
+        "ergocalciferol",
+        "retinol acetate"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "metabolism-15",
+      "question": "What of the following preparations are named as retinoids?",
+      "options": [
+        "preparations of ergocalciferol",
+        "preparations of cholecalciferol",
+        "preparations of tocopherol",
+        "metabolites and synthetic derivatives of retinol"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-16",
+      "question": "What kind of hypervitaminosis is manifested by hypercalcemia, bone demineralization and parenchymatous organ calcification?",
+      "options": [
+        "hypervitaminosis A",
+        "hypervitaminosis D",
+        "hypervitaminosis Е",
+        "hypervitaminosis K"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-17",
+      "question": "Choose proper enzyme preparations to improve digestion:",
+      "options": [
+        "aprotinin",
+        "hyaluronidase",
+        "pancreatin",
+        "festal",
+        "panzinorm"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-18",
+      "question": "Choose proper enzyme preparations to destroy hyaluronic acid:",
+      "options": [
+        "aprotinin",
+        "pancreatin",
+        "panzinorm",
+        "hyaluronidase",
+        "ronidase"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-19",
+      "question": "Choose proper enzyme preparation to improve tissue respiration:",
+      "options": [
+        "hyaluronidase",
+        "cytochrome C",
+        "desoxyribonuclease",
+        "penicillinase",
+        "aprotinin"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-20",
+      "question": "What of the following drugs is inhibitor of proteolysis?",
+      "options": [
+        "hyaluronidase",
+        "pancreatin",
+        "festal",
+        "aprotinin"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-21",
+      "question": "Choose correct statement for danazol:",
+      "options": [
+        "depresses secretion of ACTH",
+        "depresses secretion of TSH",
+        "depresses secretion of gonadotropins in the hypophysis",
+        "stimulates function of adrenal glands",
+        "stimulates synthesis of estrogens"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-22",
+      "question": "Choose proper effects of glucocorticoid preparations:",
+      "options": [
+        "anti-inflammatory effect",
+        "antiallergic effect",
+        "antiulcer effect",
+        "antishock effect",
+        "immunostimulant effect"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-23",
+      "question": "Choose proper synthetic steroids:",
+      "options": [
+        "cortisone",
+        "hydrocortisone",
+        "prednisolone",
+        "beclomethasone",
+        "dexamethasone"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-24",
+      "question": "What of the following are drugs of gestagenic hormones?",
+      "options": [
+        "progesterone",
+        "estradiol",
+        "oxyprogesterone caproate",
+        "allylestrenol",
+        "clomifen"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-25",
+      "question": "Choose proper antiestrogenic drugs:",
+      "options": [
+        "synestrol",
+        "clomifen",
+        "desoxycorticosterone acetate",
+        "tamoxifen",
+        "flutamide"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-26",
+      "question": "Which of the following drugs do demonstrate antiandrogenic action?",
+      "options": [
+        "synestrol",
+        "clomifen",
+        "desoxycorticosterone acetate",
+        "tamoxifen",
+        "flutamide",
+        "cyproterone acetate"
+      ],
+      "correctAnswers": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "metabolism-27",
+      "question": "Choose correct statements for anabolic steroids:",
+      "options": [
+        "have androgenic action",
+        "cause masculinisation in women",
+        "accelerate process of bone calcification",
+        "are used in hyperthyroidism",
+        "increase excretion of potassium and phosphorus from the body"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-28",
+      "question": "Name adverse effects of corticotropin:",
+      "options": [
+        "tachycardia",
+        "decrease in arterial pressure",
+        "edema",
+        "delay of regeneration",
+        "insomnia"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-29",
+      "question": "What is a reason of prescription of estrogens for the treatment of osteoporosis in menopausal women?",
+      "options": [
+        "they promote calcium absorption from the gastrointestinal tract",
+        "they have antagonism with parathormone and reduce its action on bones",
+        "they completely restore bone tissue in osteoporosis",
+        "they decrease excretion of calcium by kidney",
+        "they increase calcitriol concentration in blood plasma"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-30",
+      "question": "Choose synthetic hypoglycemic drugs:",
+      "options": [
+        "thiamazole",
+        "insulin actrapid",
+        "glibenclamide",
+        "buformin",
+        "methandrostenolone"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-31",
+      "question": "Choose proper explanations of mechanism of biguanide hypoglycemic action:",
+      "options": [
+        "inhibition of glucose absorption from the gastrointestinal tract",
+        "stimulation of glycolysis in muscular tissue",
+        "inhibition of gluconeogenesis",
+        "increase in insulin secretion by β- cells of the pancreas",
+        "inhibition of glucagon production by α-cells of the pancreas"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-32",
+      "question": "Choose proper mechanism of acarbose hypoglycemic action:",
+      "options": [
+        "inhibition of glucose absorption in the g.i.t. due to inhibition of α-glucosidase",
+        "stimulation of glycolysis in muscular tissue",
+        "inhibition of gluconeogenesis",
+        "increase in insulin secretion by β- cells of the pancreas",
+        "inhibition of glucagon production by α-cells of the pancreas"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "metabolism-33",
+      "question": "Which of the following drugs are administered for the treatment of hypoglycemic coma?",
+      "options": [
+        "acarbose",
+        "glucose",
+        "neutral insulin",
+        "insulin zinc suspension (amorphous) (semilong)",
+        "glibenclamide"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-34",
+      "question": "Choose proper mechanism of sulfonylurea hypoglycemic action:",
+      "options": [
+        "inhibition of glucose absorption from the gastrointestinal tract",
+        "increase in insulin secretion by β- cells of the pancreas",
+        "inhibition of glucagon production by α-cells of the pancreas",
+        "increase in insulin receptor activity",
+        "stimulation of glycolysis in muscular tissue"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-35",
+      "question": "Choose correct statements for glucocorticoids:",
+      "options": [
+        "they interact with intracellular receptors",
+        "they stimulate activity of phospholipase A",
+        "they stimulate leukotriene synthesis",
+        "they are used for the treatment of severe infectious diseases",
+        "they stimulate release of lipocortin"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-36",
+      "question": "What changes of metabolism does L-thyroxine cause?",
+      "options": [
+        "it increases catabolism of proteins",
+        "it promotes hypercholesterolemia",
+        "it decreases basal metabolism",
+        "it increases oxygen consumption by tissues",
+        "it promotes loss of weight"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-37",
+      "question": "Which of the following drugs are administered in hypothyroidism?",
+      "options": [
+        "L-thyroxine",
+        "triiodothyronine",
+        "thiamazole",
+        "potassium perchlorate"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "metabolism-38",
+      "question": "Which of the following drugs are used in hyperthyroidism?",
+      "options": [
+        "L-thyroxine",
+        "triiodothyronine",
+        "thiamazole",
+        "potassium perchlorate"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-39",
+      "question": "Choose wrong statement for desoxycorticosterone acetate:",
+      "options": [
+        "it increases of Na+ reabsorption",
+        "it decreases arterial pressure",
+        "it is a drug of choice in patients with chronic adrenal insufficiency",
+        "it increases secretion of potassium ions",
+        "it is used in myasthenia"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-40",
+      "question": "Choose proper antithyroid drug:",
+      "options": [
+        "triiodothyronine hydrochloride",
+        "levothyroxine sodium (L-thyroxine)",
+        "methandrostenolone",
+        "thiamazole"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-41",
+      "question": "Choose proper steroid anabolic drug:",
+      "options": [
+        "glibenclamide",
+        "buformin",
+        "methandrostenolone",
+        "hydrocortisone",
+        "ethinyl estradiol",
+        "desoxycorticosterone acetate"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-42",
+      "question": "Choose drugs which inhibit coagulation of blood:",
+      "options": [
+        "heparin",
+        "protamine sulfate",
+        "ethyl biscoumacetate",
+        "nadroparin",
+        "menadione"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-43",
+      "question": "Which of the following drugs is heparin antagonist?",
+      "options": [
+        "fibrinolysin",
+        "protamine sulfate",
+        "ethyl biscoumacetate",
+        "nadroparin",
+        "menadione"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-44",
+      "question": "Where do direct coagulants stimulate coagulation of blood?",
+      "options": [
+        "only in vitro",
+        "only in vivo",
+        "in vitro and in vivo"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-45",
+      "question": "Where do coagulants of indirect action stimulate coagulation of blood?",
+      "options": [
+        "only in vitro",
+        "only in vivo",
+        "in vitro and in vivo"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-46",
+      "question": "What is proper mechanism of indirect anticoagulant action?",
+      "options": [
+        "inhibition of conversion of prothrombin to thrombin",
+        "inhibition of conversion of fibrinogen to fibrin",
+        "inhibition of thromboxane system",
+        "activation of fibrinolysin",
+        "inhibition of synthesis of blood coagulation factors in the liver"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "metabolism-47",
+      "question": "Choose plants which produce hemostatic effect:",
+      "options": [
+        "Urtica (nettle)",
+        "Polygonum hydropiper (water pepper)",
+        "Hypericum (St.-John's wort)",
+        "Lagochilus inebrians Burge",
+        "Rhodiola rosea (snowdon rose)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-48",
+      "question": "Which of the following drugs inhibit fibrinolysis?",
+      "options": [
+        "aminocaproic acid",
+        "acetylsalicylic acid (aspirin)",
+        "aprotinin",
+        "fibrinolysin",
+        "protamine sulfate"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-49",
+      "question": "What of the following drugs are used in hypochromic anemia?",
+      "options": [
+        "ferrous sulfate",
+        "ferric hydroxide polymaltose complex",
+        "folic acid",
+        "cyanocobalamin",
+        "iron-dexran"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-50",
+      "question": "Choose proper antidote used in acute iron poisoning:",
+      "options": [
+        "protamine sulfate",
+        "deferoxamine (desferioxamine)",
+        "ethylene diamine tetraacetate",
+        "heparin",
+        "immunoglobulin"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-51",
+      "question": "Which of the following properties does thromboxane A2 have?",
+      "options": [
+        "it inhibits aggregation of thrombocytes",
+        "it induces aggregation of thrombocytes",
+        "it causes vasodilation",
+        "it increases cAMP content in thrombocytes",
+        "it decreases cAMP content in thrombocytes"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-52",
+      "question": "Choose proper mechanism of streptokinase action:",
+      "options": [
+        "it stimulates activators of plasmin",
+        "it stimulates activity of plasmin",
+        "it has proteolytic effect on fibrin",
+        "it inhibits synthesis II, VII, IX, X blood-coagulation factors"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "metabolism-53",
+      "question": "Choose proper indications for ethyl biscoumacetate administration:",
+      "options": [
+        "thrombophlebites",
+        "thromboembolism",
+        "hemorrhagic diseases",
+        "use of heart-lung machines (pump oxygenators)",
+        "prophylaxis and treatment of thrombosis in myocardial infarction"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-54",
+      "question": "Choose correct statement:",
+      "options": [
+        "cyanocobalamin is used for the treatment of hypochromic anemia:",
+        "ferrous iron (Fe2+) is able to transport oxygen better than ferric iron (Fe3+)",
+        "ferric iron is a part of haemoglobin"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-55",
+      "question": "Choose proper drugs promoting arrest of bleeding:",
+      "options": [
+        "aminocaproic acid",
+        "thrombin",
+        "hemostatic sponge",
+        "ethyl biscoumacetate",
+        "heparin"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-56",
+      "question": "Which of the following drugs are used in hemorrhagic diseases?",
+      "options": [
+        "ethyl biscoumacetate",
+        "dipyridamole",
+        "Lagochilus inebrians (burge)",
+        "calcium glycerophosphate",
+        "heparin",
+        "menadione"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "metabolism-57",
+      "question": "Choose proper direct coagulants:",
+      "options": [
+        "menadione",
+        "medicinal gelatin",
+        "thrombin",
+        "fibrinogen",
+        "calcium chloride"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-58",
+      "question": "Choose proper indirect coagulants:",
+      "options": [
+        "menadione (vicasol)",
+        "medicinal gelatin",
+        "thrombin",
+        "fibrinogen",
+        "calcium chloride"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "metabolism-59",
+      "question": "Which of following drugs do inhibit aggregation of thrombocytes?",
+      "options": [
+        "acetylsalicylic acid (aspirin)",
+        "menadione (vicasol)",
+        "dipyridamole",
+        "ethyl biscoumacetate",
+        "pentoxiphylline"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-60",
+      "question": "Choose proper mechanisms of platelet aggregation inhibition:",
+      "options": [
+        "inhibition of thromboxane synthesis in thrombocytes",
+        "stimulation of thromboxane synthesis in thrombocytes",
+        "activation of thromboxane receptors",
+        "block of thromboxane receptors",
+        "activation of prostacyclin systems",
+        "depression of prostacyclin systems"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-61",
+      "question": "Choose indirect anticoagulants - coumarin derivatives:",
+      "options": [
+        "ethyl biscoumacetate",
+        "acenocoumarol",
+        "warfarin",
+        "phenindione",
+        "enoxaparin"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-62",
+      "question": "Choose direct anticoagulants - low molecular weight heparins:",
+      "options": [
+        "ethyl biscoumacetate",
+        "heparin",
+        "warfarin",
+        "nadroparin",
+        "enoxaparin"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-63",
+      "question": "Choose indications for use of protamine sulfate:",
+      "options": [
+        "overdosage of heparin",
+        "overdosage of ethyl biscoumacetate",
+        "thrombophlebitis",
+        "allergic reaction of immediate type"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "metabolism-64",
+      "question": "Choose proper mechanism of nonsteroid antiinflammatory drug action (NSAIDs):",
+      "options": [
+        "inhibition of cyclooxygenase (COX)",
+        "inhibition of phospholipase A2",
+        "inhibition of lipoxygenase",
+        "inhibition of phosphodiesterase",
+        "inhibition of monoamine oxidase"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "metabolism-65",
+      "question": "Choose proper mechanism of steroid antiinflammatory drug action (SAIDs):",
+      "options": [
+        "inhibition of cyclooxygenase",
+        "inhibition of phospholipase A2",
+        "inhibition of phosphodiesterase",
+        "inhibition of lipoxygenase",
+        "inhibition of monoamine oxidase"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-66",
+      "question": "Choose acidic derivatives among the following NSAIDs:",
+      "options": [
+        "ibuprofen",
+        "diclofenac sodium",
+        "ketoprofen",
+        "indomethacin",
+        "nimesulide",
+        "celecoxib"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-67",
+      "question": "Choose non-acidic derivatives among the following NSAIDs:",
+      "options": [
+        "indomethacin",
+        "diclofenac sodium",
+        "ketoprofen",
+        "nabumetone",
+        "nimesulide",
+        "celecoxib"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "metabolism-68",
+      "question": "Choose proper main effects of NSAIDs:",
+      "options": [
+        "analgesic effect",
+        "antihistamine effect",
+        "hypotensive effect",
+        "antipyretic effect",
+        "antiinflammatory effect",
+        "hemostatic effect"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-69",
+      "question": "Choose proper indications for NSAID uses:",
+      "options": [
+        "rheumatoid arthritis",
+        "radiculitis",
+        "gastritis",
+        "fever",
+        "myalgia",
+        "bronchospasm"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-70",
+      "question": "Choose NSAIDs with short-term action (less than 6 hours):",
+      "options": [
+        "acetylsalicylic acid (aspirin)",
+        "piroxicam",
+        "ibuprofen",
+        "indomethacin",
+        "ketoprofen",
+        "meloxicam"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-71",
+      "question": "Choose NSAIDs with long-term action (more than 6 hours):",
+      "options": [
+        "celecoxib",
+        "piroxicam",
+        "ibuprofen",
+        "indometacin",
+        "ketoprofen",
+        "meloxicam"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "metabolism-72",
+      "question": "Choose proper adverse effects of NSAIDs:",
+      "options": [
+        "gastrotoxicity",
+        "ototoxicity",
+        "neurotoxicity",
+        "hepatotoxicity",
+        "depression of the CNS"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-73",
+      "question": "Which of the following NSAIDs have minimum adverse effects?",
+      "options": [
+        "selective inhibitors of COX1",
+        "selective inhibitors of COX2",
+        "nonselective inhibitors (block COX1 and COX2 equally)"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-74",
+      "question": "Choose NSAIDs which selectively inhibit COX2:",
+      "options": [
+        "indomethacin",
+        "phenylbutazone",
+        "acetylsalicylic acid",
+        "celecoxib",
+        "rofecoxib",
+        "diclofenac sodium"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-75",
+      "question": "How do NSAIDs modify hypotensive effect of ACE inhibitors, β-blockers and diuretics in essential hypertension?",
+      "options": [
+        "do not change",
+        "stimulate hypotensive action",
+        "decrease hypotensive action"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-76",
+      "question": "How do NSAIDs modify the activity of synthetic hypoglycemic drugs?",
+      "options": [
+        "do not change",
+        "increase hypoglycemic effect",
+        "decrease hypoglycemic effect"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-77",
+      "question": "How do NSAIDs modify the activity of indirect anticoagulants?",
+      "options": [
+        "do not modify",
+        "increase anticoagulant activity",
+        "decrease anticoagulant activity"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-78",
+      "question": "Which of the following NSAIDs has antiaggregant effect?",
+      "options": [
+        "phenylbutazone",
+        "diclofenac sodium",
+        "acetylsalicylic acid (aspirin)",
+        "ketoprofen",
+        "nimesulide"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-79",
+      "question": "Why aspirin must be avoided in children suffering from viral infections?",
+      "options": [
+        "because of sharp decrease in body temperature and worsening of patient’s state",
+        "because of suppression of immunity and exacerbation of infections",
+        "because of risk of Reye’s syndrom development (hepatic encephalopathy)"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-80",
+      "question": "What of the following statements are correct for SAIDs?",
+      "options": [
+        "they suppress immunity",
+        "they stimulate immunity",
+        "they stimulate synthesis of proteins",
+        "they inhibit synthesis of proteins",
+        "they decrease penetrability of capillaries and increase tone of arterioles",
+        "they increase penetrability of capillaries and decrease tone of arterioles"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-81",
+      "question": "Choose wrong statement:",
+      "options": [
+        "paracetamol inhibits leukotriene synthesis",
+        "salicylates can precipitate gout (podagra)",
+        "sulindac is a pro-drug",
+        "glucocorticoids have immunosuppressant action"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-82",
+      "question": "Choose H1- histamine receptor blockers:",
+      "options": [
+        "diphenhydramine (dimedrol)",
+        "loratadine (claritine)",
+        "chloropyramine (suprastin)",
+        "cromolyn sodium (intal)",
+        "nedocromil sodium (tilade)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-83",
+      "question": "How does loratadine differ from diphenhydramine?",
+      "options": [
+        "it blocks H1- histamine receptors",
+        "it has sedative effect",
+        "it does not have sedative effect",
+        "it penetrates through the blood-brain barrier",
+        "it does not penetrate through the blood-brain barrier"
+      ],
+      "correctAnswers": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-84",
+      "question": "Which of the following drugs prevent mast cell and basophile degranulation?",
+      "options": [
+        "ketotifen (zaditen)",
+        "loratadine (claritine)",
+        "chloropyramine (suprastin)",
+        "cromolyn sodium (intal)",
+        "nedocromil sodium (tilade)"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-85",
+      "question": "What is proper mechanism of cromolyn sodium in allergic reactions of immediate type?",
+      "options": [
+        "blocks of H1- histamine receptors",
+        "stabilizes cell membranes of basophils and mast cells",
+        "spasmolytic effect",
+        "all answers are correct"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "metabolism-86",
+      "question": "Which of the following antihistaminic drugs have sedative effect?",
+      "options": [
+        "diphenhydramine",
+        "loratadine",
+        "chloropyramine",
+        "promethazine",
+        "mebhydroline",
+        "acrivastine"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-87",
+      "question": "Which of the following antihistaminic drugs do NOT have sedative effect?",
+      "options": [
+        "diphenhydramine",
+        "loratadine",
+        "chloropyramine",
+        "promethazine",
+        "mebhydroline",
+        "acrivastine"
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "metabolism-88",
+      "question": "Choose antihistaminic drugs of long-term action:",
+      "options": [
+        "diphenhydramine",
+        "loratadine",
+        "chloropyramine",
+        "promethazine",
+        "fexofenadine",
+        "ebastine"
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "metabolism-89",
+      "question": "Blockers of which type of the following receptors are used in allergic diseases?",
+      "options": [
+        "H1- histamine receptor blockers",
+        "H2- histamine receptor blockers",
+        "H3- histamine receptor blockers",
+        "blockers of all types of histamine receptors"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "metabolism-90",
+      "question": "Choose proper mechanism of promethazine action:",
+      "options": [
+        "it inhibits synthesis of histamine",
+        "it inhibits release of histamine",
+        "it blocks histamine H1-receptors",
+        "it has all listed mechanisms"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "metabolism-91",
+      "question": "Choose proper mechanism of zafirlukast and montelukast action:",
+      "options": [
+        "inhibition of histamine synthesis",
+        "inhibition of histamine release",
+        "block of histamine H1-receptors",
+        "block of leukotriene LTD4 receptors"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "metabolism-92",
+      "question": "Choose immunomodulators of thymic origin:",
+      "options": [
+        "prodigiosan",
+        "thymalin",
+        "T-activin",
+        "myelopid",
+        "levamisole"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-93",
+      "question": "Choose proper drug with selective immunosupressant effect:",
+      "options": [
+        "azathioprine",
+        "methotrexate",
+        "hydrocortisone",
+        "cyclophosphamide",
+        "cyclosporine"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "metabolism-94",
+      "question": "Choose synthetic immunostimulants:",
+      "options": [
+        "thymalin",
+        "T-activin",
+        "ribomunyl",
+        "levamisole",
+        "pentoxyl"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "metabolism-95",
+      "question": "Choose bacterial immunostimulants:",
+      "options": [
+        "broncho-munal",
+        "pentoxyl",
+        "ribomunyl",
+        "prodigiosan",
+        "thymalin"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "metabolism-96",
+      "question": "Choose biostimulants of animal origin:",
+      "options": [
+        "extract of aloe",
+        "solcoseryl",
+        "splenin",
+        "humisol"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-97",
+      "question": "Name hypolipidemic agents:",
+      "options": [
+        "lovastatin",
+        "fenofibrate",
+        "polysponin",
+        "allopurinol",
+        "potassium orotate"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "metabolism-98",
+      "question": "What is a mechanism of hypolipidemic action of statins?",
+      "options": [
+        "inhibition of lipid absorption from the g.i.t.",
+        "binding of bile acids in the small intestine",
+        "competitive inhibition of HMG-CoA-reductase - key enzyme in cholesterol synthesis",
+        "activation of hepatic lipase and destruction of lipids",
+        "angioprotective action"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    }
+  ]
+}

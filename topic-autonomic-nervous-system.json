@@ -1,0 +1,2202 @@
+{
+  "title": "2. Drugs acting on the autonomic nervous system",
+  "questions": [
+    {
+      "id": "autonomic-nervous-system-1",
+      "question": "Choose groups of drugs which reduce sensitivity of afferent nerves:",
+      "options": [
+        "local anesthetics",
+        "irritants",
+        "astringents",
+        "enveloping drugs",
+        "all listed groups"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-2",
+      "question": "Choose drugs which decrease sensitivity of afferent nerves:",
+      "options": [
+        "menthol",
+        "solution of ammonia",
+        "tannic acid",
+        "lidocaine",
+        "all listed drugs"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-3",
+      "question": "Choose drugs which increase sensitivity of afferent nerves:",
+      "options": [
+        "menthol",
+        "solution of ammonia",
+        "tannic acid",
+        "lidocaine",
+        "talc"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-4",
+      "question": "What kinds of nerve fibres are blocked by local anesthetics for suppression of transmission of excitation?",
+      "options": [
+        "only sensitive ones",
+        "only motor ones",
+        "only autonomic ones",
+        "all nerve fibres"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-5",
+      "question": "Choose proper mechanism of local anesthetics:",
+      "options": [
+        "prevent formation of action potential",
+        "block potassium channels",
+        "prevent spread of nervous impulses",
+        "bind ions of calcium within membrane of nerve fiber",
+        "inhibit production of energy in neurons"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-6",
+      "question": "What is the first synthetic local anesthetic which was introduced in 1905?",
+      "options": [
+        "benzocaine",
+        "tetracaine",
+        "cocaine",
+        "lidocaine",
+        "procaine"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-7",
+      "question": "Choose proper requirements for local anesthetics:",
+      "options": [
+        "high anesthetizing activity",
+        "high absorbability to the blood",
+        "absence of irritant effect",
+        "presence of vasodilating properties",
+        "low toxicity"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-8",
+      "question": "What is surface anesthesia?",
+      "options": [
+        "application of anesthetic on surface of skin or mucosa",
+        "layer-by-layer impregnation of tissues with anesthetic solution",
+        "conduction block"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-9",
+      "question": "What is infiltration anesthesia?",
+      "options": [
+        "application of anesthetic on surface of skin or mucosa",
+        "layer-by-layer impregnation of tissues with anesthetic solution",
+        "conduction block"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-10",
+      "question": "What is conduction anesthesia?",
+      "options": [
+        "application of anesthetic on surface of skin or mucosa",
+        "layer-by-layer impregnation of tissues with anesthetic solution",
+        "injection of local anesthetic around conducting nerve fiber"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-11",
+      "question": "Choose proper groups of classification of local anesthetics according to their chemical structure?",
+      "options": [
+        "weak acids",
+        "complex esters",
+        "amides",
+        "alcohols"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-12",
+      "question": "Choose short acting local anesthetic:",
+      "options": [
+        "articaine",
+        "lidocaine",
+        "bupivacaine",
+        "procaine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-13",
+      "question": "Choose long acting local anesthetic drug:",
+      "options": [
+        "articaine",
+        "lidocaine",
+        "bupivacaine",
+        "procaine"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-14",
+      "question": "What of the following drugs are used for surface anesthesia?",
+      "options": [
+        "benzocaine",
+        "tetracaine",
+        "lidocaine",
+        "bupivacaine",
+        "articaine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-15",
+      "question": "What of the following drugs are used for infiltration anesthesia?",
+      "options": [
+        "benzocaine",
+        "tetracaine",
+        "lidocaine",
+        "procaine",
+        "trimecaine"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-16",
+      "question": "What of the following drugs are used for conduction anesthesia?",
+      "options": [
+        "benzocaine",
+        "trimecaine",
+        "articaine",
+        "bupivacaine",
+        "lidocaine"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-17",
+      "question": "How does inflammation change a power of local anesthetic effect?",
+      "options": [
+        "does not change",
+        "intensifies",
+        "reduces"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-18",
+      "question": "What of the following is used to prolong action of local anesthetics?",
+      "options": [
+        "enveloping drugs",
+        "vasodilators",
+        "vasoconstrictors",
+        "astringents"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-19",
+      "question": "What is aim of co-administration of local anesthetics with epinephrine?",
+      "options": [
+        "to prolong their action",
+        "to shorten their action",
+        "to decrease toxicity of local anesthetic",
+        "to decrease secretion of salivary and bronchial glands",
+        "to prevent collapse"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-20",
+      "question": "Choose proper effect of procaine:",
+      "options": [
+        "anesthetic effect",
+        "astringent effect",
+        "enveloping effect",
+        "irritant effect",
+        "emollient effect"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-21",
+      "question": "Choose correct statement for lidocaine:",
+      "options": [
+        "it is less effective than procaine",
+        "it is effective the same as procaine",
+        "it iss more effective than procaine"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-22",
+      "question": "Which of the following are systemic effects of local anesthetics?",
+      "options": [
+        "depression of the CNS",
+        "stimulation of the CNS",
+        "decrease in smooth muscle tone",
+        "increase in smooth muscle tone",
+        "antiarrhythmic effect",
+        "cardiotonic effect"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-23",
+      "question": "Which of the following pharmacological effects are characteristic for lidocaine?",
+      "options": [
+        "anesthetic effect",
+        "anticonvulsant effect",
+        "antiinflammatory effect",
+        "antiarrhythmic effect",
+        "analeptic effect"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-24",
+      "question": "What of the following is the least toxic local anesthetic?",
+      "options": [
+        "tetracaine",
+        "procaine",
+        "lidocaine",
+        "benzocaine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-25",
+      "question": "What of the following is the most toxic local anesthetic?",
+      "options": [
+        "tetracaine",
+        "procaine",
+        "lidocaine",
+        "cocaine"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-26",
+      "question": "What of the following local anesthetics is badly soluble in water?",
+      "options": [
+        "tetracaine",
+        "procaine",
+        "lidocaine",
+        "benzocaine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-27",
+      "question": "Why co-administration of ester-linked local anesthetics and sulfonamides is improper?",
+      "options": [
+        "because of pharmaceutical incompatibility",
+        "because toxicity of local anesthetic is increased",
+        "because anesthetic activity is decreased",
+        "because antimicrobial effect of sulfonamides is decreased due to formation of PABA from ester-linked local anesthetics"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-28",
+      "question": "Choose proper answer for local anesthetic solution for conduction anesthesia:",
+      "options": [
+        "it is injected in less volume than for infiltration anesthesia",
+        "it is injected in more volume than for infiltration anesthesia",
+        "it is injected in less concentration than for infiltration anesthesia",
+        "it is injected in more concentrations than for infiltration anesthesia"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-29",
+      "question": "Choose proper mechanism of astringents:",
+      "options": [
+        "adsorption of aggressive chemical substances",
+        "coagulation of proteins located superficially (extracellular)",
+        "stimulation of formation of protective mucus",
+        "softening of the skin"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-30",
+      "question": "What is proper origin of astringents?",
+      "options": [
+        "organic",
+        "inorganic",
+        "of bacterial origin",
+        "products of petroleum refining"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-31",
+      "question": "What of the following are organic astringents?",
+      "options": [
+        "lead acetate",
+        "tannic acid",
+        "decoction of oak bark",
+        "silver nitrate",
+        "infusion of chamomile flowers"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-32",
+      "question": "What of the following are inorganic astringents?",
+      "options": [
+        "lead acetate",
+        "tannic acid",
+        "decoction of oak bark",
+        "silver nitrate"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-33",
+      "question": "Which of the following factors influence action of inorganic astringents?",
+      "options": [
+        "dose of a drug",
+        "concentration of a drug",
+        "time of exposure",
+        "time of a day",
+        "sex"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-34",
+      "question": "Which of the following astringents are more toxic?",
+      "options": [
+        "organic",
+        "inorganic",
+        "both drug groups have equal toxicity"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-35",
+      "question": "Which of the following astringents can cause cauterizing effect?",
+      "options": [
+        "organic astringents",
+        "inorganic astringents",
+        "both drug groups",
+        "none of the listed drug groups"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-36",
+      "question": "What is a mechanism of cauterizing effect?",
+      "options": [
+        "coagulation of superficially located (extracellular) proteins with formation of protective colloidal film",
+        "coagulation of extracellular and intracellular proteins with formation of scab",
+        "secretion of protective mucus and softening of the skin"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-37",
+      "question": "What are indications for oral administration of astringents?",
+      "options": [
+        "inflammatory diseases of the gastrointestinal tract",
+        "constipation",
+        "dyspeptic disorders",
+        "anorexia"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-38",
+      "question": "All of the following have astringent action except:",
+      "options": [
+        "menthol",
+        "decoction of oak bark",
+        "tannin",
+        "silver nitrate",
+        "salvin (drug made from salvia leaves)"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-39",
+      "question": "Choose drugs with enveloping action:",
+      "options": [
+        "menthol",
+        "mucilage from starch",
+        "mucilage from flax seeds",
+        "silver nitrate",
+        "activated charcoal"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-40",
+      "question": "Choose proper mechanism of enveloping drug:",
+      "options": [
+        "mechanical protection of sensory nerve endings from irritation",
+        "coagulation of superficial (extracellular) proteins",
+        "suppression of sensitivity of receptors by increase in excitability threshold"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-41",
+      "question": "Choose adsorbents:",
+      "options": [
+        "zinc oxide",
+        "talc",
+        "silver nitrate",
+        "lead acetate",
+        "diosmectite (smecta)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-42",
+      "question": "What is main effect of activated charcoal?",
+      "options": [
+        "anesthetic effect",
+        "astringent effect",
+        "enveloping effect",
+        "irritant effect",
+        "adsorbing effect"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-43",
+      "question": "Choose proper effect of hydrolized lignine (polyphane, polyphepane):",
+      "options": [
+        "local anaesthetic effect",
+        "astringent effect",
+        "adsorbing effect",
+        "irritant effect"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-44",
+      "question": "How do adsorbents influence absorption of drugs in the gastrointestinal tract?",
+      "options": [
+        "do not change absorption",
+        "slow down absorption",
+        "stimulate absorption"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-45",
+      "question": "Choose drugs for the treatment of meteorism (flatulence):",
+      "options": [
+        "local anesthetics",
+        "adsorbents",
+        "emollients",
+        "enveloping drugs"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-46",
+      "question": "What is proper effect of mustard plasters:",
+      "options": [
+        "anesthetic effect",
+        "astringent effect",
+        "enveloping effect",
+        "irritant effect"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-47",
+      "question": "Choose proper effects of turpentine oil:",
+      "options": [
+        "local anaesthetic effect",
+        "astringent effect",
+        "irritant effect",
+        "adsorbing effect"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-48",
+      "question": "Choose proper local effect of camphor:",
+      "options": [
+        "local anaesthetic effect",
+        "astringent effect",
+        "irritant effect",
+        "antiseptic effect"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-49",
+      "question": "All of the following take irritant effect except:",
+      "options": [
+        "menthol",
+        "solution of ammonia",
+        "tannin",
+        "tincture eucalyptus",
+        "mustard plaster"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-50",
+      "question": "How does ammonia solution stimulate the respiratory centre?",
+      "options": [
+        "reflexly",
+        "after absorption to the blood"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-51",
+      "question": "How is ammonia solution usually used in syncope (fainting)?",
+      "options": [
+        "by rubbing hands",
+        "by inhaling vapours",
+        "orally (in drops)"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-52",
+      "question": "Choose proper indications for uses of irritants:",
+      "options": [
+        "sleeplessness",
+        "arthritis",
+        "myositis",
+        "allergy",
+        "prophylaxis of pressure bedsores (decubital ulcers)"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-53",
+      "question": "Choose proper effects of irritants:",
+      "options": [
+        "counter-irritant effect",
+        "trophic effect",
+        "antiinflammatory effect",
+        "antiallergic effect",
+        "sedative effect"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-54",
+      "question": "What is a meaning of trophic effect of irritants?",
+      "options": [
+        "burning sensation at the place of their application",
+        "improvement of microcirculation and metabolic processes in tissues",
+        "pain relief"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-55",
+      "question": "What of the following do participate in development of trophic effect of irritants?",
+      "options": [
+        "hormones",
+        "axon reflexes",
+        "viscerocutaneous reflexes",
+        "histamine and kinins"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-56",
+      "question": "How do irritants influence the process of inflammation?",
+      "options": [
+        "do not change",
+        "slow down recovery",
+        "accelerate recovery"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-57",
+      "question": "What type action of irritants provide their pharmacological effects?",
+      "options": [
+        "their reflex action",
+        "their systemic (resorptive) action"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-58",
+      "question": "Choose proper effect of drugs containing snake and bee venoms:",
+      "options": [
+        "irritant effect",
+        "astringent effect",
+        "biostimulant effect"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-59",
+      "question": "What of the following drugs are skin softeners?",
+      "options": [
+        "solution of ammonia",
+        "petroleum jelly (vaseline)",
+        "vegetable oils",
+        "volatile oils",
+        "animal fats Cholinergic drugs"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-60",
+      "question": "Choose proper definition of cholinomimetics:",
+      "options": [
+        "drugs which facilitate transmission of impulses in cholinergic synapses.",
+        "drugs which inhibit transmission of impulses in cholinergic synapses.",
+        "drugs which do not change the transmission of nervous impulses in cholinergic synapses."
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-61",
+      "question": "Choose nonselective cholinomimetics:",
+      "options": [
+        "acetylcholine",
+        "aceclidine",
+        "carbachol",
+        "lobeline",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-62",
+      "question": "Choose M- cholinomimetics:",
+      "options": [
+        "acetylcholine",
+        "aceclidine",
+        "carbachol",
+        "lobeline",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-63",
+      "question": "Choose N- cholinomimetics:",
+      "options": [
+        "acetylcholine",
+        "aceclidine",
+        "carbachol",
+        "cytitone",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-64",
+      "question": "Pilocarpine produces:",
+      "options": [
+        "miosis",
+        "mydriasis",
+        "spasm of eye accommodation",
+        "paralysis of eye accommodation (cycloplegia)",
+        "decrease in intraocular pressure",
+        "increase in intraocular pressure"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-65",
+      "question": "What drugs are instilled to eyes in glaucoma?",
+      "options": [
+        "acetylcholine",
+        "atropine",
+        "carbachol",
+        "lobeline",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-66",
+      "question": "How do M- cholinomimetics influence work of the heart?",
+      "options": [
+        "increase excitability and automatism",
+        "decrease excitability and automatism",
+        "accelerate conduction through the AV node",
+        "slow down conduction through the AV node",
+        "cause tachycardia",
+        "cause bradycardia"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-67",
+      "question": "How do M- cholinomimetics influence the work of excretory glands?",
+      "options": [
+        "do not change",
+        "increase secretion",
+        "decrease secretion"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-68",
+      "question": "What of the following is pharmacological antagonist of M- cholinomimetics?",
+      "options": [
+        "acetylcholine",
+        "atropine",
+        "nicotine",
+        "lobeline",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-69",
+      "question": "Which of the following drugs are used for smoking cessation?",
+      "options": [
+        "scopolamine",
+        "nicotine low dose",
+        "varenicline",
+        "atropine",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-70",
+      "question": "Choose cholinomimetics of indirect action:",
+      "options": [
+        "M- cholinomimetics",
+        "N- cholinomimetics",
+        "stimulants of presynaptic release of acetylcholine",
+        "anticholinesterases"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-71",
+      "question": "Choose proper uses of stimulants of presynaptic release of acetylcholine (ceruletide, cisapride):",
+      "options": [
+        "postoperative atony of the intestines",
+        "atony of the stomach",
+        "X-ray examination of the gastrointestinal tract",
+        "peptic ulcers of the stomach",
+        "pregnancy"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-72",
+      "question": "Choose proper contraindications of stimulants of presynaptic release of acetylcholine (ceruletide, cisapride):",
+      "options": [
+        "postoperative atony of the intestine",
+        "bowel obstruction (ileus)",
+        "X-ray examination of the gastrointestinal tract",
+        "peptic ulcers of the stomach",
+        "pregnancy"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-73",
+      "question": "Choose anticholinesterases:",
+      "options": [
+        "acetylcholine",
+        "aceclidine",
+        "galantamine",
+        "neostigmine",
+        "izonitrozine",
+        "pyridostigmine bromide"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-74",
+      "question": "Choose proper indications for M- cholinomimetics and anticholinesterases:",
+      "options": [
+        "postoperative atony of the intestine",
+        "postoperative atony of the urinary bladder",
+        "glaucoma",
+        "myasthenia",
+        "labor weakness"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-75",
+      "question": "Choose proper mechanism of action of anticholinesterases:",
+      "options": [
+        "increase in acetylcholinesterase activity and decrease in acetylcholine amount in cholinergic synapses",
+        "inhibition of acetylcholinesterase and accumulation of acetylcholine in cholinergic synapses",
+        "increase in acetylcholine release from presynaptic endings",
+        "inhibition of acetylcholine release from presynaptic endings"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-76",
+      "question": "Choose ophthalmic effects of anticholinesterases:",
+      "options": [
+        "miosis",
+        "mydriasis",
+        "spasm of eye accommodation",
+        "paralysis of eye accommodation (cycloplegia)",
+        "decrease in intraocular pressure",
+        "increase in intraocular pressure"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-77",
+      "question": "Choose proper effects of anticholinesterases:",
+      "options": [
+        "increase in skeletal muscle tone",
+        "increase in smooth muscle tone",
+        "increase in salivary gland secretion",
+        "decrease in salivary gland secretion",
+        "decrease in intraocular pressure"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-78",
+      "question": "What drugs are used for the treatment of myasthenia?",
+      "options": [
+        "M-cholinomimetics",
+        "muscarinic receptor blockers",
+        "anticholinesterases"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-79",
+      "question": "Which of the following anticholinesterases penetrates to the CNS well?",
+      "options": [
+        "tertiary compounds",
+        "quaternary compounds",
+        "their penetrability to the CNS does not depend on chemical structure"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-80",
+      "question": "Choose anticholinesterases with irreversible action:",
+      "options": [
+        "neostigmine",
+        "pyridostigmine",
+        "physostigmine",
+        "galantamine",
+        "ecothiophate"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-81",
+      "question": "Choose cholinesterase reactivators:",
+      "options": [
+        "trimedoxime bromide",
+        "pralidoxime",
+        "unithiol (dimercaprol)",
+        "trihexyphenidyl hydrochloride",
+        "alloxime"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-82",
+      "question": "Choose proper mechanism of cholinesterase reactivators:",
+      "options": [
+        "recovery of acetylcholinesterase activity",
+        "stimulation of M-cholinoceptors",
+        "blockade of M-cholinoceptors",
+        "blockade of N-cholinoceptors"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-83",
+      "question": "What drugs are used as pharmacological antagonists in poisoning with organophosphorous compounds?",
+      "options": [
+        "cholinesterase reactivators",
+        "inhibitors of acetylcholinesterase",
+        "atropine",
+        "pilocarpine"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-84",
+      "question": "Choose proper definition of anticholinergic drugs:",
+      "options": [
+        "drugs facilitating nervous impulse transmission in cholinergic synapses",
+        "drugs inhibiting nervous impulse transmission in cholinergic synapses",
+        "drugs which do not change the nervous impulse transmission in cholinergic synapses"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-85",
+      "question": "Choose muscarinic receptor blockers with sedative action:",
+      "options": [
+        "propantheline",
+        "pirenzepine",
+        "atropine",
+        "homatropine",
+        "scopolamine"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-86",
+      "question": "Which of the following pharmacological actions of atropine are different from actions of other muscarinic receptor blockers?",
+      "options": [
+        "it stimulate respiratory center",
+        "it takes sedative effect",
+        "it produces the longest mydriasis and paralysis of accommodation",
+        "it dilates bronchi",
+        "it produces tachycardia"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-87",
+      "question": "Choose proper effects of atropine:",
+      "options": [
+        "miosis",
+        "mydriasis",
+        "spasm of eye accommodation",
+        "paralysis of eye accommodation (cycloplegia)",
+        "decrease in intraocular pressure",
+        "increase in intraocular pressure"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-88",
+      "question": "What is the duration of mydriasis at atropine administration?",
+      "options": [
+        "1-2 hours",
+        "1-2 day",
+        "7-10 day"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-89",
+      "question": "Choose proper indications for atropine uses:",
+      "options": [
+        "glaucoma",
+        "iridocyclitis",
+        "preanesthetic medication",
+        "poisoning with anticholinesterases",
+        "tachycardia"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-90",
+      "question": "Choose antimuscarinic drugs with direct myotropic spasmolytic effect:",
+      "options": [
+        "atropine",
+        "drotaverine",
+        "platyphylline",
+        "pirenzepine"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-91",
+      "question": "Choose antimuscarinic drugs which selectively blocks gastric secretion:",
+      "options": [
+        " atropine",
+        " metocinium iodide",
+        " platyphylline",
+        " pirenzepine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-92",
+      "question": "Choose antimuscarinic drugs for inhalations in bronchospasm:",
+      "options": [
+        "atropine",
+        "ipratropium bromide",
+        "platyphylline",
+        "pirenzepine"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-93",
+      "question": "What of the following antimuscarinic drugs are alkaloids:",
+      "options": [
+        "atropine",
+        "scopolamine",
+        "ipratropium bromide",
+        "pirenzepine",
+        "platyphylline"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-94",
+      "question": "What of the following antimuscarinic drugs are synthetic in origin?",
+      "options": [
+        "atropine",
+        "propantheline",
+        "tropicamide",
+        "pirenzepine",
+        "platyphylline"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-95",
+      "question": "What of the following plants do contain alkaloid atropine?",
+      "options": [
+        "black henbane (Hyoscyamus niger)",
+        "thorn apple (Datura stramonium)",
+        "Atropa belladonna",
+        "digitalis",
+        "Convallaria majalis (lily- of- the valley)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-96",
+      "question": "How do antimuscarinic drugs influence function of the heart?",
+      "options": [
+        "do not change",
+        "they produce tachycardia",
+        "they produce bradycardia",
+        "they increase atrioventricular conduction",
+        "they decrease atrioventricular conduction"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-97",
+      "question": "How do antimuscarinic drugs influence tone of smooth muscles?",
+      "options": [
+        "do not change",
+        "decrease",
+        "increase"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-98",
+      "question": "How do antimuscarinic drugs influence secretion of excretory glands:",
+      "options": [
+        "do not change",
+        "decrease",
+        "increase"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-99",
+      "question": "How do antimuscarinic drugs act on thermoregulation?",
+      "options": [
+        "decrease heat emission and increase body temperature",
+        "increase heat emission and decrease body temperature",
+        "they do not change body temperature"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-100",
+      "question": "Choose proper adverse effects of antimuscarinic drugs:",
+      "options": [
+        "bradycardia",
+        "tachycardia",
+        "dry mouth",
+        "salivation",
+        "urinary retention"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-101",
+      "question": "Choose proper pharmacological antagonists in poisoning with atropine:",
+      "options": [
+        "muscarinic antagonists",
+        "reversible anticholinesterases",
+        "irreversible anticholinesterases",
+        "nicotinic antagonists"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-102",
+      "question": "Which of the following are ganglion blockers?",
+      "options": [
+        "hexamethonium benzosulfonate",
+        "trepirium iodide",
+        "metocinium iodide",
+        "suxamethonium chloride",
+        "pempidine tosylate"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-103",
+      "question": "Choose ganglion blockers with short-term action:",
+      "options": [
+        "hexamethonium benzosulfonate",
+        "trepirium iodide",
+        "trimethaphan",
+        "imechin",
+        "azamethonium bromide",
+        "pempidine tosylate"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-104",
+      "question": "What is a mechanism of ganglion blockers?",
+      "options": [
+        "drugs which block N- cholinergic receptors of neuromuscular synapses",
+        "drugs which block N- cholinergic receptors of autonomic ganglia",
+        "drugs which block M- cholinergic receptors of smooth muscles",
+        "drugs which block all types of cholinergic receptors"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-105",
+      "question": "Choose proper indications for uses of ganglion blockers:",
+      "options": [
+        "collapse",
+        "hypertension stroke",
+        "pulmonary edema",
+        "controlled hypotension",
+        "atony of the gastrointestinal tract"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-106",
+      "question": "Choose proper adverse effects of ganglion blockers:",
+      "options": [
+        "orthostatic collapse",
+        "hypokinetic constipation",
+        "urinary retention",
+        "hypertension",
+        "dry mouth"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-107",
+      "question": "What is a mechanism of skeletal muscle relaxants (curare-like substances)?",
+      "options": [
+        "block N- cholinergic receptors of neuromuscular synapses",
+        "block N- cholinergic receptors of autonomic ganglia",
+        "block M- cholinergic receptors on smooth muscles",
+        "block all types of cholinergic receptors"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-108",
+      "question": "What is a founder of group of skeletal muscle relaxants (neuromuscular blockers)?",
+      "options": [
+        "suxamethonium chloride",
+        "d- tubocurarine",
+        "atropine",
+        "pachycarpine"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-109",
+      "question": "Choose common properties of tubocurarine and suxamethonium:",
+      "options": [
+        "they block autonomic ganglia",
+        "they block neuromuscular transmission",
+        "their action is eliminated by neostigmine action",
+        "their action is eliminated by atropine action",
+        "diethyl ether potentiates their action"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-110",
+      "question": "Choose proper indications for uses of suxamethonium chloride:",
+      "options": [
+        "treatment of bronchospasm",
+        "relaxation of skeletal muscles",
+        "treatment of hypertension stroke",
+        "treatment of glaucoma",
+        "psychomotor agitation"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-111",
+      "question": "What drug must be administered in overdose of nondepolarizing (competitive) skeletal muscle relaxants?",
+      "options": [
+        "atropine",
+        "neostigmine",
+        "izonitrozine",
+        "suxamethonium chloride",
+        "azamethonium bromide"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-112",
+      "question": "Choose nondepolarizing (competitive) skeletal muscle relaxants (neuromuscular blockers):",
+      "options": [
+        "pipecuronium bromide",
+        "pancuronium bromide",
+        "tubocurarine chloride",
+        "suxamethonium chloride",
+        "dioxonium"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-113",
+      "question": "Choose skeletal muscle relaxants (neuromuscular blockers) of short-term action (5-15 minutes):",
+      "options": [
+        " pipecuronium bromide",
+        " pancuronium bromide",
+        " tubocurarine chloride",
+        " suxamethonium chloride",
+        " mivacurium chloride"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-114",
+      "question": "Choose skeletal muscle relaxants (neuromuscular blockers) of long-term action:",
+      "options": [
+        " pipecuronium bromide",
+        " pancuronium bromide",
+        " tubocurarine chloride",
+        " suxamethonium chloride",
+        " mivacurium chloride"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-115",
+      "question": "Choose proper mechanism of nondepolarizing skeletal muscle relaxants (neuromuscular blockers)",
+      "options": [
+        "stable depolarization of postsynaptic membrane of neuromuscular synapse and desensitization of receptors",
+        "blockade of postsynaptic receptors of neuromuscular synapse and prevention of depolarizing action of acetylcholine",
+        "supression of motoneurons in the CNS"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-116",
+      "question": "Choose proper mechanism of depolarizing skeletal muscle relaxants (neuromuscular blockers):",
+      "options": [
+        "stable depolarization of postsynaptic membrane of a neuromuscular synapse and desensitization of receptors",
+        "block of postsynaptic membrane receptors of neuromuscular synapse and prevent depolarizing action of acetylcholine",
+        "supression of motoneurons in the CNS"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-117",
+      "question": "How do diethyl ether and halothane change the effect of non-depolarizing skeletal muscle relaxants?",
+      "options": [
+        " increase and prolong",
+        " decrease and shorten",
+        " not change"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-118",
+      "question": "Choose depolarizing skeletal muscle relaxants (neuromuscular blocker):",
+      "options": [
+        "pipecuronium bromide",
+        "pancuronium bromide",
+        "tubocurarine chloride",
+        "suxamethonium chloride",
+        "mellictinum"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-119",
+      "question": "Action of what skeletal muscle relaxants (neuromuscular blockers) is antagonized by anticholinesterases?",
+      "options": [
+        " depolarizing neuromuscular blockers",
+        " non-depolarizing neuromuscular blockers of competitive type",
+        " all neuromuscular blockers Adrenergic drugs"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-120",
+      "question": "Which of the following effects is the most probable by moderate dose of norepinephrine given after overdose of atropine?",
+      "options": [
+        "bradycardia caused by direct action of epinephrine on the heart",
+        "reflex bradycardia",
+        "tachycardia caused by direct action of epinephrine on the heart",
+        "reflex tachycardia",
+        "does not change the heart rhythm"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-121",
+      "question": "Choose selective α1- adrenergic agonist:",
+      "options": [
+        "atenolol",
+        "phenylephrine",
+        "clonidine",
+        "salbutamol",
+        "noradrenaline"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-122",
+      "question": "What of the following groups of drugs does increase blood pressure, accelerate pulse rate and A-V conductivity, increase glycogenolysis and decrease bronchial tone?",
+      "options": [
+        "muscarinic antagonists",
+        "sympatholytics",
+        "α,β - adrenergic agonists",
+        "α - adrenergic agonists",
+        "ganglion blockers"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-123",
+      "question": "Choose adrenergic agonists for the treatment of rhinitis (nasal decongestants):",
+      "options": [
+        "dobutamine",
+        "isoprenaline",
+        "xylometazoline",
+        "naphazoline",
+        "fenoterol"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-124",
+      "question": "Choose proper mechanism of naphazoline action in rhinitis:",
+      "options": [
+        "astringent action and decrease in mucus secretion",
+        "vasoconstrictive action and decrease in mucus secretion",
+        "antiseptic action",
+        "immunomodulatory action",
+        "adsorption of mucus"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-125",
+      "question": "How does epinephrine influence heart work?",
+      "options": [
+        "increases frequency and force of heartbeats",
+        "decreases frequency and force of heartbeats",
+        "increases conduction through atrioventricular (A-V) node",
+        "decreases conduction through atrioventricular (A-V) node",
+        "increases myocardium oxygen demand",
+        "decreases myocardium oxygen demand"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-126",
+      "question": "How does epinephrine influence vascular tone and blood pressure?",
+      "options": [
+        "increases vascular tone and blood pressure",
+        "decreases vascular tone and blood pressure",
+        "does not change vascular tone and blood pressure"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-127",
+      "question": "Choose drugs for the treatment of acute hypotension:",
+      "options": [
+        "adrenaline (epinephrine)",
+        "noradrenaline (norepinephrine)",
+        "phenylephrine",
+        "isoprenaline",
+        "clonidine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-128",
+      "question": "What is the cause of bradycardia by norepinephrine?",
+      "options": [
+        "reflex activation of the vagus center",
+        "blockade of β1– adrenergic receptors of the heart",
+        "blockade of sympathetic ganglia"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-129",
+      "question": "Choose proper effects of dobutamine:",
+      "options": [
+        "β1- adrenergic agonist",
+        "β2- adrenergic agonist",
+        "cardiotonic drug of non-glycoside structure",
+        "bronchodilator",
+        "sympathomimetic"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-130",
+      "question": "Choose proper mechanism of isoprenaline:",
+      "options": [
+        "selective β1- adrenergic agonist",
+        "selective β2- adrenergic agonist",
+        "nonselective β-adrenergic agonist"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-131",
+      "question": "Choose proper effects of isoprenaline:",
+      "options": [
+        "relaxation of bronchial muscles",
+        "acceleration of heartbeats",
+        "increase in myometrium tone",
+        "activation of the respiratory center and vasomotor center",
+        "decrease in blood pressure"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-132",
+      "question": "Choose proper routes of noradrenaline administration:",
+      "options": [
+        "oral intake",
+        "sublingually",
+        "subcutaneously",
+        "intramuscularly",
+        "intravenously"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-133",
+      "question": "What of the following groups of drugs are used in bronchospasm?",
+      "options": [
+        "β1- adrenoceptor agonists",
+        "β2- adrenoceptor agonists",
+        "α1- adrenoceptor agonists",
+        "α2- adrenoceptor agonists",
+        "β-adrenoceptor blockers"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-134",
+      "question": "Choose selective β2- adrenoceptor agonists:",
+      "options": [
+        "salbutamol",
+        "fenoterol",
+        "isoprenaline",
+        "dobutamine",
+        "adrenaline (epinephrine)"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-135",
+      "question": "Choose indications for the use of salbutamol:",
+      "options": [
+        "stomach ulcers",
+        "essential hypertension",
+        "atony of the intestine",
+        "bronchospasm",
+        "atony of the uterus"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-136",
+      "question": "Choose indirect sympathomimetic (indirect adrenergic agonist):",
+      "options": [
+        "adrenaline (epinephrine)",
+        "ephedrine",
+        "phenylephrine",
+        "reserpine"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-137",
+      "question": "Choose correct statement:",
+      "options": [
+        "ephedrine depresses the CNS",
+        "ephedrine stimulates the CNS",
+        "ephedrine does not pass through the blood-brain barrier and does not influence the CNS"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-138",
+      "question": "Choose proper drugs for the treatment of angina pectoris:",
+      "options": [
+        "propranolol",
+        "isoprenaline",
+        "adrenaline (epinephrine)",
+        "metoprolol",
+        "phentolamine"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-139",
+      "question": "What of the following drugs can cause exacerbation of stomach ulcers?",
+      "options": [
+        "atropine",
+        "hexamethonium benzosulfonate",
+        "galantamine",
+        "guanethidine",
+        "reserpine"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-140",
+      "question": "Choose proper mechanism of cardioselective adrenergic antagonists:",
+      "options": [
+        "β1- adrenergic antagonists",
+        "β2- adrenergic antagonists",
+        "β1, β2- adrenergic antagonists"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-141",
+      "question": "Choose proper drugs of cardioselective β- adrenergic antagonists:",
+      "options": [
+        "oxprenolol",
+        "labetalol",
+        "metoprolol",
+        "atenolol",
+        "bisoprolol"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-142",
+      "question": "Choose the most selective β1-adrenergic antagonist:",
+      "options": [
+        "oxprenolol",
+        "nebivolol",
+        "metoprolol",
+        "atenolol",
+        "bisoprolol"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-143",
+      "question": "Which of the following drugs is NOT cardioselective adrenergic antagonist:",
+      "options": [
+        "propranolol",
+        "bisoprolol",
+        "atenolol",
+        "metoprolol",
+        "talinolol"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-144",
+      "question": "Choose β- adrenergic antagonists with vasodilating activity:",
+      "options": [
+        "oxprenolol",
+        "carvedilol",
+        "nebivolol",
+        "propranolol"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-145",
+      "question": "Choose β- adrenergic antagonists with intrinsic sympathomimetic activity:",
+      "options": [
+        "oxprenolol",
+        "carvedilol",
+        "nebivolol",
+        "propranolol",
+        "pindolol"
+      ],
+      "correctAnswers": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-146",
+      "question": "Choose proper indications for the uses of β- adrenergic antagonists:",
+      "options": [
+        "angina pectoris",
+        "essential hypertension",
+        "arterial hypotension",
+        "bronchial asthma",
+        "extrasystole"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-147",
+      "question": "Choose proper adverse effects of adrenergic antagonists:",
+      "options": [
+        "increase in intraocular pressure due to β-blocking action",
+        "atrioventricular heart block due to α- blocking action",
+        "cardiac insufficiency due to β- blocking action",
+        "disorder of blood circulation due to α-blocking action",
+        "bronchospasm caused by β-blocking action"
+      ],
+      "correctAnswers": [
+        2,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-148",
+      "question": "Choose proper adverse effects of β-adrenergic antagonists:",
+      "options": [
+        "sinus bradycardia",
+        "exacerbation of bronchial asthma",
+        "withdrawal syndrome",
+        "tachycardia"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-149",
+      "question": "Choose alkaloids which inhibit the CNS and PNS, have sedative and hypotensive effects, able to provoke depression:",
+      "options": [
+        "atropine",
+        "sparteine",
+        "platyphylline",
+        "reserpine",
+        "physostigmine"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-150",
+      "question": "What of the following statements are correct for reserpine?",
+      "options": [
+        "it decreases release of catecholamines from nerve endings of sympathetic fibres",
+        "it increases release of catecholamines from nerve endings of sympathetic fibres",
+        "it rises BP",
+        "it decreases BP",
+        "it depresses the CNS"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-151",
+      "question": "What of the following drugs can be recommended to a patient with glaucoma if he suffers from essential hypertension also?",
+      "options": [
+        "epinephrine",
+        "propranolol",
+        "guanethidine",
+        "pilocarpine",
+        "clonidine"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-152",
+      "question": "Choose α1- adrenoceptor antagonists:",
+      "options": [
+        "atenolol",
+        "prazosin",
+        "doxazosin",
+        "terazosin",
+        "phentolamine"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-153",
+      "question": "Choose proper indication for Prazosin use:",
+      "options": [
+        "rhinitis (locally)",
+        "bronchospasm",
+        "essential hypertension",
+        "stomach ulcer",
+        "diarrhea"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-154",
+      "question": "What of the following pharmacological group of drugs does contain guanetidine?",
+      "options": [
+        "sympathomimetic",
+        "indirect adrenergic antagonist",
+        "adrenoceptor blocker",
+        "cholinergic antagonist"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "autonomic-nervous-system-155",
+      "question": "Choose proper adverse effects of propranolol:",
+      "options": [
+        "tachycardia",
+        "bradycardia",
+        "bronchospasm",
+        "atrioventricular heart block",
+        "disturbances of eye accommodation"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

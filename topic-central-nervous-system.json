@@ -1,0 +1,1336 @@
+{
+  "title": "3. Drugs acting on the central nervous system",
+  "questions": [
+    {
+      "id": "central-nervous-system-1",
+      "question": "Choose drugs for noninhalation general anesthesia:",
+      "options": [
+        "halothane",
+        "ketamine",
+        "propofol",
+        "hexenal",
+        "sodium oxybate",
+        "isoflurane"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-2",
+      "question": "Choose the correct statement regarding nitrous oxide:",
+      "options": [
+        "it is an effective general anesthetic and can be used for mononarcosis",
+        "it does not undergo biotransformation",
+        "it has no analgesic properties",
+        "it is rarely used in modern surgery",
+        "it does not require simultaneous administration of neuromuscular blockers"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-3",
+      "question": "Which of the following drugs can produce “dissociative anesthesia”?",
+      "options": [
+        "ketamine",
+        "halothane",
+        "droperidol",
+        "thiopentone sodium",
+        "propanidid"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-4",
+      "question": "What is proper duration of general anesthesia by Sodium oxybate?",
+      "options": [
+        "5-10 minutes",
+        "20-30 minutes",
+        "30-60 minutes",
+        "2 hours",
+        "4-6 hours"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-5",
+      "question": "Which of the following general anesthetics needs decrease in dose of skeletal muscle relaxant?",
+      "options": [
+        "nitrous oxide",
+        "propanidid",
+        "halothane",
+        "diethyl ether",
+        "thiopentone sodium"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-6",
+      "question": "Which of the following drugs are used for treatment of chronic alcoholism?",
+      "options": [
+        "apomorphine hydrochloride",
+        "morphine hydrochloride",
+        "piracetam",
+        "naloxone",
+        "disulfiram (tetraethylthiuram disulfide)"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-7",
+      "question": "Choose proper mechanism of disulfiram (tetraethylthiuram disulfide):",
+      "options": [
+        "block of alcohol dehydrogenase and delay of ethanol biotransformation",
+        "activation of alcohol dehydrogenase and acceleration of ethanol biotransformation",
+        "block of acetaldehyde dehydrogenase and delay of acetaldehyde biotransformation",
+        "activation of aldehyde dehydrogenase and acceleration of acetaldehyde biotransformation"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-8",
+      "question": "What of the following drugs are used as hypnotics?",
+      "options": [
+        "zopiclone",
+        "zolpidem",
+        "nitrazepam",
+        "piracetam",
+        "carbamazepine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-9",
+      "question": "What of the following are derivatives of barbituric acid?",
+      "options": [
+        "chlorpromazine",
+        "diazepam",
+        "phenazepam",
+        "phenobarbital",
+        "zolpidem"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-10",
+      "question": "Choose proper indications for Phenobarbital uses:",
+      "options": [
+        "Parkinson′s disease",
+        "epilepsy",
+        "depression",
+        "insomnia",
+        "induction of microsomal liver enzymes"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-11",
+      "question": "Which of the following drugs produce considerable induction of microsomal liver enzymes?",
+      "options": [
+        "phenobarbital",
+        "diazepam",
+        "morphine",
+        "chlorpromazine",
+        "halothane"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-12",
+      "question": "Choose hypnotic drugs of benzodiazepine group:",
+      "options": [
+        "midazolam",
+        "zolpidem",
+        "nitrazepam",
+        "triazolam",
+        "zopiclone"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-13",
+      "question": "Choose non-benzodiazepine agonists of benzodiazepine receptors:",
+      "options": [
+        "midazolam",
+        "zolpidem",
+        "nitrazepam",
+        "triazolam",
+        "zopiclone",
+        "phenobarbital"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-14",
+      "question": "Choose proper features of zolpidem:",
+      "options": [
+        "derivative of imidazopyridine",
+        "derivative of benzodiazepine",
+        "interacts with benzodiazepine receptors and activates GABAergic system",
+        "does not influence sleep architecture",
+        "has high bioavailability",
+        "has low bioavailability"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-15",
+      "question": "Choose proper features of zopiclone:",
+      "options": [
+        "derivative of imidazopyridine",
+        "derivative of cyclopyrrolone",
+        "interacts with GABAA - BD – BT- Cl- channel receptor complex",
+        "considerably shortens the phase of \"rapid eye movement\"",
+        "the duration of sleep is 6-8 hours",
+        "the duration of sleep is 3-4 hours"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-16",
+      "question": "Which of the following drugs have anticonvulsant activity?",
+      "options": [
+        "diclofenac sodium",
+        "chloropyramine",
+        "diazepam",
+        "sodium oxybate",
+        "clonazepam"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-17",
+      "question": "Choose proper indications for lamotrigine use:",
+      "options": [
+        "generalized tonic-clonic seizures (grand mal)",
+        "absence seizures (petit mal)",
+        "psychomotor equivalents of epileptic seizures",
+        "Parkinson′s disease",
+        "schizophrenia",
+        "insomnia"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-18",
+      "question": "Choose proper mechanism of lamotrigine action:",
+      "options": [
+        "activation of GABAA - BD – BT- Cl- channel receptor complex",
+        "block of GABAA - BD – BT- Cl- channel receptor complex",
+        "stimulation of release of excitatory amino acids from presynaptic endings",
+        "inhibition of release of excitatory amino acids from presynaptic endings"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-19",
+      "question": "What of the following drugs are used to control status epilepticus?",
+      "options": [
+        "trimethadione",
+        "lorazepam",
+        "valproic acid",
+        "diazepam",
+        "ethosuximide"
+      ],
+      "correctAnswers": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-20",
+      "question": "Choose proper drugs for treatment of Parkinson′s disease:",
+      "options": [
+        "ethimizol",
+        "trihexyphenidyl",
+        "selegiline",
+        "levodopa",
+        "levopa+carbidopa"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-21",
+      "question": "Choose proper mechanism of selegiline action:",
+      "options": [
+        "increase in dopamine synthesis",
+        "increase in dopamine release from nerve endings",
+        "increase in dopamine receptor sensitivity",
+        "inhibition of МАО-B",
+        "block of central muscarinic receptor"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-22",
+      "question": "Choose proper mechanism of narcotic analgesics:",
+      "options": [
+        "they stimulate dopamine receptors",
+        "they stimulate opioid receptors",
+        "they block cholinergic receptors",
+        "they inhibit cyclooxygenase",
+        "they inhibit prostaglandin-synthase"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-23",
+      "question": "Choose opium alkaloids:",
+      "options": [
+        "morphine",
+        "codeine",
+        "atropine sulfate",
+        "papaverine hydrochloride",
+        "fentanyl",
+        "trimeperidine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-24",
+      "question": "Choose synthetic narcotic analgesics:",
+      "options": [
+        "morphine",
+        "codeine",
+        "buprenorphine",
+        "tramadol",
+        "fentanyl",
+        "pentazocine"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-25",
+      "question": "Choose opium alkaloids which are phenanthrene derivatives:",
+      "options": [
+        "morphine",
+        "codeine",
+        "papaverine"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-26",
+      "question": "Choose proper features of papaverine hydrochloride:",
+      "options": [
+        "papaverine hydrochloride causes spasmolytic action on smooth muscles",
+        "papaverine hydrochloride does NOT cause dependence",
+        "papaverine hydrochloride causes more marked euphoria than Morphine",
+        "papaverine hydrochloride has NOT analgesic effect",
+        "papaverine hydrochloride causes more considerable analgesic effect than Morphine",
+        "papaverine hydrochloride causes psychostimulant effect"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-27",
+      "question": "Choose full agonists of opioid receptors:",
+      "options": [
+        "buprenorphine",
+        "tramadol",
+        "morphine",
+        "fentanyl"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-28",
+      "question": "Choose partial agonists of opioid receptors:",
+      "options": [
+        "buprenorphine",
+        "morphine",
+        "tramadol",
+        "fentanyl",
+        "pentazocine",
+        "butorphanol"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-29",
+      "question": "Choose proper antagonists of opioid receptors:",
+      "options": [
+        "naloxone",
+        "piritramide",
+        "naltrexone",
+        "tramadol",
+        "morphine"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-30",
+      "question": "What is drug of choice for treatment of overdosage by opioids:",
+      "options": [
+        "codeine",
+        "trimeperidine",
+        "naloxone",
+        "pentazocine",
+        "fentanyl"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-31",
+      "question": "What of the following are adverse effects of narcotic analgesics?",
+      "options": [
+        "psychological and physical dependence",
+        "tolerance",
+        "atony of smooth muscles",
+        "increase in smooth muscle tone",
+        "respiratory depression",
+        "cough"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-32",
+      "question": "What are distinctive signs of cocainists and morphinists in coma?",
+      "options": [
+        "level of blood pressure",
+        "pulse rate",
+        "size of pupils",
+        "respiratory rate",
+        "tone of skeletal muscles"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-33",
+      "question": "Naloxone blocks:",
+      "options": [
+        "muscarinic cholinergic receptors",
+        "β- adrenergic receptors",
+        "opioid receptors",
+        "H2- histamine receptors"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-34",
+      "question": "What of the following are proper pharmacological effects of paracetamol?",
+      "options": [
+        "antipyretic effect",
+        "antiplatelet effect",
+        "analgesic effect",
+        "anti-inflammatory effect",
+        "spasmolytic effect"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-35",
+      "question": "Choose proper adverse effects of paracetamol:",
+      "options": [
+        "allergic reaction",
+        "methemoglobinemia",
+        "hepatotoxicity",
+        "crystalluria",
+        "nephrotoxicity",
+        "hyperchromic anemia"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-36",
+      "question": "Choose proper pharmacological effects of acetylsalicylic acid:",
+      "options": [
+        "antipyretic effect",
+        "antiaggregant effect",
+        "analgesic effect",
+        "anti-inflammatory effect",
+        "spasmolytic effect"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-37",
+      "question": "Choose proper pharmacological effects of metamizole sodium:",
+      "options": [
+        "antipyretic effect",
+        "antiplatelet effect",
+        "analgesic effect",
+        "anti-inflammatory effect",
+        "spasmolytic effect"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-38",
+      "question": "Choose proper adverse effects of metamizole sodium:",
+      "options": [
+        "agranulocytosis",
+        "thrombocytopenia",
+        "leukocytosis",
+        "allergic reactions",
+        "hemorrhages"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-39",
+      "question": "Which of the following drugs have analgesic and anti-inflammatory action?",
+      "options": [
+        "diclofenac",
+        "indometacin",
+        "nitrazepam",
+        "selegiline",
+        "levodopa",
+        "nimesulide"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-40",
+      "question": "What is proper mechanism of analgesic action of nonsteroidal anti-inflammatory drugs?",
+      "options": [
+        "stimulation of opioid receptors",
+        "block of opioid receptors",
+        "inhibition of cyclooxygenase and prostaglandin synthesis",
+        "activation of cyclooxygenase and prostaglandin synthesis"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-41",
+      "question": "Choose proper target of antipsychotic action of neuroleptic drugs:",
+      "options": [
+        "GABAA - BD – BT- Cl- channel receptor complex",
+        "dopamine receptors",
+        "opioid receptors",
+        "histamine Н2-receptors",
+        "МАО and COMT"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-42",
+      "question": "Choose derivatives of phenothiazine:",
+      "options": [
+        "chlorpromazine",
+        "diazepam",
+        "droperidol",
+        "perphenazine",
+        "haloperidol"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-43",
+      "question": "Choose typical adverse effects of majority phenothiazines:",
+      "options": [
+        "increase in arterial pressure",
+        "parkinsonism",
+        "decrease in prolactin secretion",
+        "nausea",
+        "psychomotor agitation"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-44",
+      "question": "Choose adverse effects of chlorpromazine:",
+      "options": [
+        "overexcitation",
+        "insomnia",
+        "extrapyramidal disorders",
+        "endocrine disorders",
+        "decrease in arterial blood pressure"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-45",
+      "question": "Choose antipsychotic drug which does not cause extrapyramidal disorders:",
+      "options": [
+        "chlorpromazine",
+        "levomepromazine",
+        "haloperidol",
+        "fluphenazine",
+        "clozapine"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-46",
+      "question": "Choose main properties of “atypical” antipsychotic drugs:",
+      "options": [
+        "marked antipsychotic activity",
+        "poor antipsychotic activity",
+        "frequent extrapyramidal disorders",
+        "rare extrapyramidal disorders",
+        "have less adverse effects than typical antipsychotic drugs",
+        "have more adverse effects than typical antipsychotic drugs"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-47",
+      "question": "Choose “atypical” antipsychotic drugs:",
+      "options": [
+        "chlorpromazine",
+        "sulpiride",
+        "haloperidol",
+        "fluphenazine",
+        "clozapine",
+        "quetiapine"
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-48",
+      "question": "How do antipsychotic drugs change the action of analgesic and general anaesthetic drugs?",
+      "options": [
+        "do not change",
+        "enhance their action",
+        "decrease their action",
+        "decrease their action only in long-term administration"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-49",
+      "question": "What is neuroleptanalgesia?",
+      "options": [
+        "inhibition of pain as a result of neuroleptic drug administration",
+        "anesthesia due to co-administration of antipsychotic and narcotic analgesic",
+        "anesthesia due to co-administration of antipsychotic drug and spasmolytic drug",
+        "inhibition of the CNS due to antipsychotic drug administration"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-50",
+      "question": "Which of the following combinations is more frequently used for neuroleptanalgesia?",
+      "options": [
+        "chlorpromazine + morphine",
+        "chlorpromazine + trimeperidine",
+        "droperidol + fentanyl",
+        "droperidol+ morphine",
+        "haloperidol + codeine"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-51",
+      "question": "Choose benzodiazepine derivatives:",
+      "options": [
+        "chlorpromazine",
+        "diazepam",
+        "phenazepam",
+        "phenobarbital",
+        "nitrazepam"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-52",
+      "question": "Choose proper mechanism of diazepam action:",
+      "options": [
+        "stimulates GABA-BZD receptor complex",
+        "stimulates dopamine receptors",
+        "stimulates cholinoceptors",
+        "stimulates histamine Н1-receptors",
+        "stimulates adenosine receptors"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-53",
+      "question": "Choose proper main effects of diazepam:",
+      "options": [
+        "anxiolytic effect",
+        "antidepressive effect",
+        "relaxation of skeletal muscles",
+        "sedative effect",
+        "anticonvulsant effect"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-54",
+      "question": "Choose proper cause of skeletal muscle relaxant effect of benzodiazepines:",
+      "options": [
+        "block of nicotinic cholinoceptors in neuromuscular synapses",
+        "block of acetylcholine release out of presynaptic membranes of motor nerves",
+        "inhibition of spinal polysynaptic reflexes"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-55",
+      "question": "Choose proper antagonist of benzodiazepine tranquilizers:",
+      "options": [
+        "flunitrazepam",
+        "diazepam",
+        "phenazepam",
+        "flumazenil",
+        "nitrazepam",
+        "triazolam"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-56",
+      "question": "Choose long-term acting benzodiazepine tranquilizers:",
+      "options": [
+        "chlordiazepoxide",
+        "diazepam",
+        "phenazepam",
+        "lorazepam",
+        "midazolam",
+        "oxazepam"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-57",
+      "question": "Choose short- term acting benzodiazepine tranquilizer:",
+      "options": [
+        "chlordiazepoxide",
+        "diazepam",
+        "phenazepam",
+        "lorazepam",
+        "midazolam",
+        "oxazepam"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-58",
+      "question": "Choose mid-term acting benzodiazepine tranquilizers:",
+      "options": [
+        "chlordiazepoxide",
+        "diazepam",
+        "phenazepam",
+        "lorazepam",
+        "midazolam",
+        "oxazepam"
+      ],
+      "correctAnswers": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-59",
+      "question": "Names adverse effects of benzodiazepines:",
+      "options": [
+        "sleepiness",
+        "sleeplessness (insomnia)",
+        "memory impairment",
+        "slowing-down of motor reactions",
+        "weakness"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-60",
+      "question": "Why are benzodiazepines dangerous for children and teenagers?",
+      "options": [
+        "because of development of dependence",
+        "because of increase in skeletal muscle tone",
+        "because of memory impairment",
+        "because of development of seizures",
+        "because of development of nervous excitation"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-61",
+      "question": "Why is diazepam dangerous during pregnancy and labour?",
+      "options": [
+        "because preterm delivery is possible",
+        "because inhibition of newborn sucking reflex is possible",
+        "because of danger of apnea in newborns",
+        "because of risk of neurological disorders in newborns",
+        "bz of delay of labour"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-62",
+      "question": "What drugs are called as “day tranquilizers”?",
+      "options": [
+        "having strong hypnotic and sedative effects",
+        "having week hypnotic and sedative effects",
+        "not having anxiolytic effect"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-63",
+      "question": "Choose “day tranquilizers”:",
+      "options": [
+        "chlordiazepoxide",
+        "diazepam",
+        "phenazepam",
+        "medazepam",
+        "dipotassium clorazepate",
+        "tofisopam"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-64",
+      "question": "Choose drugs causing dependence:",
+      "options": [
+        "morphine",
+        "codeine",
+        "piracetam",
+        "diazepam",
+        "phenobarbital"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-65",
+      "question": "Choose sedative drugs:",
+      "options": [
+        "gamma- aminobutyric acid (aminalone)",
+        "caffeine",
+        "piracetam",
+        "tincture Valeriana",
+        "sodium bromide",
+        "tincture Leonurus (motherwort)"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-66",
+      "question": "Choose plants which have sedative action:",
+      "options": [
+        "Rhodiola rosea (snowdon rose)",
+        "Valeriana",
+        "Schisandra (magnolia vine)",
+        "Leonurus (motherwort)",
+        "Mentha piperita (peppermint)"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-67",
+      "question": "Due to which of the following causes do tricyclic antidepressants increase biogenic amine concentration in central synapses?",
+      "options": [
+        "increase in biogenic amine release from nerve endings",
+        "increase in biogenic amines synthesis in the nerve endings",
+        "inhibition of biogenic amine disintegration",
+        "inhibition of monoamine re-uptake"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-68",
+      "question": "Choose proper mechanism of antidepressant action of МАО inhibitors:",
+      "options": [
+        "inhibition of oxidative deamination of norepinephrine and serotonin, increase in their amount in presynaptic membrane",
+        "stimulation of oxidative deamination of norepinephrine and serotonin, decrease in their amount in presynaptic membrane",
+        "stimulation of norepinephrine synthesis and serotonin in brain"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-69",
+      "question": "Choose antidepressant- selective МАО-A inhibitor:",
+      "options": [
+        "nialamide",
+        "moclobemide",
+        "amitriptyline",
+        "fluoxetine",
+        "sertraline"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "central-nervous-system-70",
+      "question": "Choose antidepressant - non-selective МАО inhibitor:",
+      "options": [
+        "nialamide",
+        "moclobemide",
+        "amitriptyline",
+        "fluoxetine",
+        "sertraline"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-71",
+      "question": "Choose antidepressants - selective serotonin re-uptake inhibitors:",
+      "options": [
+        "nialamide",
+        "fluoxetine",
+        "imipramine",
+        "amitriptyline",
+        "fluvoxamine",
+        "sertraline"
+      ],
+      "correctAnswers": [
+        1,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-72",
+      "question": "Choose antidepressants - nonselective monoamines re-uptake inhibitors:",
+      "options": [
+        "fluoxetine",
+        "imipramine",
+        "amitriptyline",
+        "trazodone",
+        "clomipramine"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-73",
+      "question": "Choose “atypical” antidepressants:",
+      "options": [
+        "amitriptyline",
+        "imipramine",
+        "tianeptine",
+        "mianserin",
+        "moclobemide"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-74",
+      "question": "Choose proper features of nialamide:",
+      "options": [
+        "selective МАО-A inhibitor",
+        "nonselective МАО-A inhibitor",
+        "selective serotonin re-uptake inhibitor",
+        "nonselective monoamines re-uptake inhibitor",
+        "drug with reversible action",
+        "drug with irreversible action"
+      ],
+      "correctAnswers": [
+        1,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-75",
+      "question": "Choose proper adverse effects of tricyclic antidepressants:",
+      "options": [
+        "dry mouth",
+        "salivation",
+        "tachycardia",
+        "bradycardia",
+        "constipation",
+        "retention of urination"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-76",
+      "question": "Choose proper distinctions of mianserin from tricyclic antidepressants:",
+      "options": [
+        "mianserin has antimuscarinic activity",
+        "mianserin has NOT antimuscarinic activity",
+        "mianserin has anxiolytic activity",
+        "mianserin has NOT anxiolytic activity",
+        "mianserin causes disorders of the cardiovascular system",
+        "mianserin DOES causes disorders of the cardiovascular system"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-77",
+      "question": "Choose antidepressants with stimulant action:",
+      "options": [
+        "imipramine",
+        "amitriptyline",
+        "nialamide",
+        "mianserin",
+        "moclobemide"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-78",
+      "question": "Choose antidepressants with sedative action:",
+      "options": [
+        "trazodone",
+        "amitriptyline",
+        "nialamide",
+        "mianserin",
+        "moclobemide"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    },
+    {
+      "id": "central-nervous-system-79",
+      "question": "Choose psychomotor stimulants:",
+      "options": [
+        "gamma- aminobutyric acid (aminalone)",
+        "caffeine",
+        "piracetam",
+        "pyritinol",
+        "amphetamine"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-80",
+      "question": "Choose characteristic features of psychomotor stimulants:",
+      "options": [
+        "increase in physical and mental activity",
+        "short-term action",
+        "long-term action",
+        "increase in energy consumption of the brain",
+        "decrease in energy consumption of the brain",
+        "decrease in need of sleep"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-81",
+      "question": "Choose proper features of caffeine:",
+      "options": [
+        "derivative of methylxanthines",
+        "derivative of phenylalkylamines",
+        "produces psychostimulant action",
+        "produces analeptic action",
+        "increases the basal metabolic rate",
+        "decreases the basal metabolic rate"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-82",
+      "question": "Choose proper caffeine action on gastric secretion:",
+      "options": [
+        "increases the secretion",
+        "decreases the secretion",
+        "does not influence the secretion"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "central-nervous-system-83",
+      "question": "Choose proper adverse effects of caffeine:",
+      "options": [
+        "psychic excitation, anxiety",
+        "depression of the CNS",
+        "tachycardia",
+        "bradycardia",
+        "nausea, vomiting",
+        "sleepiness"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "central-nervous-system-84",
+      "question": "Choose nootropic drugs:",
+      "options": [
+        "gamma- aminobutyric acid (aminalone)",
+        "caffeine",
+        "piracetam",
+        "hopatenic acid",
+        "pyritinol",
+        "picamilon"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "central-nervous-system-85",
+      "question": "Choose proper features of piracetam:",
+      "options": [
+        "stimulates thinking in chronic vascular and degenerative disorders of the brain",
+        "has antihypoxant action",
+        "has anticonvulsant action",
+        "effect is visible after the first dose intake",
+        "causes cardiac arrhythmias"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "central-nervous-system-86",
+      "question": "Which of the following drugs have analeptic action?",
+      "options": [
+        "nikethamide",
+        "ethimizol",
+        "piracetam",
+        "caffeine",
+        "diazepam"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ]
+    }
+  ]
+}

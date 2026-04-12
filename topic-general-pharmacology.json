@@ -1,0 +1,911 @@
+{
+  "title": "1. General Pharmacology",
+  "questions": [
+    {
+      "id": "general-pharmacology-1",
+      "question": "What does the international GLP standard regulate?",
+      "options": [
+        "organization and carrying out of clinical trials of drugs",
+        "organization of preclinical studies of drugs on experimental animals and high-quality laboratory control of drugs",
+        "manufacture of high-quality drugs at pharmaceutical enterprises",
+        "organization of high-quality pharmacy (pharmaceutical) practice"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-2",
+      "question": "What does the international GCP standard regulate?",
+      "options": [
+        "organization and carrying out of clinical trials of drugs",
+        "organization of preclinical studies of drugs on experimental animals and high-quality laboratory control of drugs",
+        "manufacture of high-quality drugs at pharmaceutical enterprises",
+        "organization of high-quality pharmacy (pharmaceutical) practice"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-3",
+      "question": "What does the international GMP standard regulate?",
+      "options": [
+        "organization and carrying out of clinical trials of drugs",
+        "organization of preclinical studies of drugs on experimental animals and high-quality laboratory control of drugs",
+        "manufacture of high-quality drugs at pharmaceutical enterprises",
+        "organization of high-quality pharmacy (pharmaceutical) practice"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-4",
+      "question": "What does the international GPP standard regulate?",
+      "options": [
+        "organization and carrying out of clinical trials of drugs",
+        "organization of preclinical studies of drugs on experimental animals and high-quality laboratory control of drugs",
+        "manufacture of high-quality drugs at pharmaceutical enterprises",
+        "organization of high-quality pharmacy (pharmaceutical) practice"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-5",
+      "question": "Choose proper definition of pharmacopoeial monograph for a medicinal product:",
+      "options": [
+        "state drug standard",
+        "instructions for use of the drug",
+        "technical regulations for the production of the drug",
+        "price list from the manufacturer of the drug"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-6",
+      "question": "Choose proper groups of dosage forms on classification according to their state of aggregation:",
+      "options": [
+        "gaseous",
+        "solid",
+        "semi-solid",
+        "semi-soft",
+        "soft",
+        "liquid"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        5
+      ]
+    },
+    {
+      "id": "general-pharmacology-7",
+      "question": "What of the following does not belong to solid dosage forms?",
+      "options": [
+        "powder",
+        "suppository",
+        "dragee",
+        "tablet",
+        "lozenge"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-8",
+      "question": "What of the following does not belong to semisolid dosage forms?",
+      "options": [
+        "patch",
+        "caramel",
+        "suppository",
+        "gel",
+        "cream g) paste"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-9",
+      "question": "Which ointment base is a product of petroleum refining?",
+      "options": [
+        "lanolin",
+        "petroleum jelly",
+        "spermaceti",
+        "cocoa butter",
+        "wax"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-10",
+      "question": "What is proper content of powdery substances in pastes?",
+      "options": [
+        "1% to 5%",
+        "5% to 25%",
+        "25% to 65%",
+        "65% to 85%",
+        "5% to 85%"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-11",
+      "question": "Which dosage form is solid at room temperature and melts at body temperature?",
+      "options": [
+        "dragee",
+        "suppository",
+        "capsule",
+        "tablet",
+        "suspension"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-12",
+      "question": "Which solvent is most frequently used for the preparation of solutions?",
+      "options": [
+        "purified (distilled) water",
+        "ethyl alcohol",
+        "olive oil",
+        "sunflower oil",
+        "glycerin"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-13",
+      "question": "Which dosage forms must be sterile and apyrogenec?",
+      "options": [
+        "aromatic waters",
+        "medicinal enemas",
+        "liniments",
+        "infusions and decoctions",
+        "dosage forms for injections"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "general-pharmacology-14",
+      "question": "What dosage forms are aqueous extracts from plant raw materials?",
+      "options": [
+        "tinctures",
+        "infusions",
+        "decoctions",
+        "extracts",
+        "aromatic waters"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "id": "general-pharmacology-15",
+      "question": "Choose the correct continuation. Tablets are...:",
+      "options": [
+        "solid undosed dosage form which looks as grains of spherical or other shape",
+        "solid dosed dosage form obtained by pressing powders and granules",
+        "dosed dosage form which is solid at room temperature and melting at body temperature",
+        "ready made dosage form obtained by special processing of plant raw materials"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-16",
+      "question": "Choose the correct continuation. Suppositories are...:",
+      "options": [
+        "solid undosed dosage form which looks as grains of spherical or other shape",
+        "solid dosed dosage form obtained by pressing powders and granules",
+        "dosed dosage form which is solid at room temperature and melting at body temperature",
+        "ready made dosage form obtained by special processing of plant raw materials"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-17",
+      "question": "What are proper types of suppositories?",
+      "options": [
+        "oral",
+        "rectal",
+        "vaginal",
+        "ophthalmic"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-18",
+      "question": "What is Pharmacopoeia?",
+      "options": [
+        "a part of general pharmacology about routes of drug administration, absorption, distribution in the body, biotransformation and routes of elimination",
+        "a part of general pharmacology about mechanisms of drug action and drug effects",
+        "a collection of state national standards and requirements for medicinal substances, medicinal raw materials and drugs",
+        "official authority for drug quality control",
+        "a science of medicinal raw materials"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-19",
+      "question": "What is pharmacodynamics?",
+      "options": [
+        "a collection of state national standards and requirements for medicinal substances, medicinal raw materials and drugs",
+        "a part of general pharmacology about mechanisms of drug action and drug effects",
+        "a part of general pharmacology about routes of drug administration, absorption, distribution in the body, biotransformation and routes of elimination a science of medicinal raw materials",
+        "a science of methods of drug research"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-20",
+      "question": "What is pharmacokinetics?",
+      "options": [
+        "a part of general pharmacology about drug absorption, distribution in the body, biotransformation and routes of excretion",
+        "a science of methods of drug research",
+        "a science of medicinal raw materials",
+        "a part of general pharmacology about mechanisms of drug action and their effects",
+        "a collection of state national standards and requirements for medicinal substances, medicinal raw materials and drugs"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-21",
+      "question": "What is elimination?",
+      "options": [
+        "accumulation of a medicinal substance in blood plasma",
+        "ability of a drug to pass through biological barriers",
+        "interaction of a drug with tissue receptors",
+        "removal of an active form of a medicinal substance out of the body due to biotransformation and excretion",
+        "distribution of a medicinal substance in biological liquids of the body"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-22",
+      "question": "What is acquired tolerance?",
+      "options": [
+        "increase in the body sensitivity to medicinal substance",
+        "insuperable attraction to repeat dose of a drug",
+        "perverted reaction of the body on drug introduction",
+        "gradual weakening of therapeutic action of a drug",
+        "storage of a drug in certain tissues of the body"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-23",
+      "question": "What is synergism?",
+      "options": [
+        "perverted reaction of the body to drug administration",
+        "unidirectional action of medicinal substances what results in reinforcement of their final effect",
+        "opposite action of medicinal substances what results in weakening of their final effect",
+        "accumulation of a drug in tissues of the body"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-24",
+      "question": "What is antagonism?",
+      "options": [
+        "unidirectional action of medicinal substances what results in reinforcement of their final effect",
+        "opposite action of medicinal substances what results in weakening of their final effect",
+        "gradual weakening of a therapeutic drug effect",
+        "impossibility of drug administration in certain dosage form",
+        "a delay of drug elimination"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-25",
+      "question": "What is idiosyncrasy?",
+      "options": [
+        "rapid development of tolerance to a medicinal substance",
+        "acute exacerbation of a disease after drug withdrawal",
+        "perverted rapid reaction of the body on first introduction of a drug",
+        "a reaction of the body due to exceeding the therapeutic dose of a drug",
+        "negative influence of a medicinal substance on a fetus"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-26",
+      "question": "What is agonist (mimetic)?",
+      "options": [
+        "medicinal substance which blocks interaction of endogenous ligands with receptors",
+        "medicinal substance which acts on receptors similar to endogenous ligands",
+        "medicinal substance which binds to plasma albumins and circulate in the blood for a long time",
+        "drug which is rapidly eliminated from the body",
+        "inducer of microsomal liver enzymes"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-27",
+      "question": "What does chronopharmacology study?",
+      "options": [
+        "dependence of pharmacological effects on dose and concentration of a drug",
+        "routes of metabolic transformation of medicinal substances",
+        "routes of drug excretion",
+        "dependence of drug bioavailability on physical and chemical properties of medicinal substances",
+        "dependence of pharmacological effects on biological rhythms of the body"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "general-pharmacology-28",
+      "question": "Choose proper mechanisms of drug absorption from the g.i.t.:",
+      "options": [
+        "passive diffusion",
+        "facilitated diffusion",
+        "active transport",
+        "inverse secretion",
+        "all answers are correct"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-29",
+      "question": "Choose drugs with more intensive absorption from the g.i.t.:",
+      "options": [
+        "non-polar (not ionized)",
+        "polar (ionized)"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-30",
+      "question": "Choose proper formula of therapeutic index:",
+      "options": [
+        "LD/ED",
+        "ED/LD",
+        "mass of medicinal substance (g) /mass of a body (kg)"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-31",
+      "question": "What does therapeutic index characterize?",
+      "options": [
+        "strength of pharmacological effect",
+        "duration of drug effect",
+        "drug safety",
+        "possibility of allergic reaction"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-32",
+      "question": "What is a definition of bioavailability?",
+      "options": [
+        "route of drug administration",
+        "amount of a drug which reached the systemic circulation as compared to initial dose",
+        "single dose of a drug",
+        "course dose of a drug"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-33",
+      "question": "What is a percentage of bioavailability of a drug at oral administration?",
+      "options": [
+        "100 %",
+        "less than 100 %",
+        "more than 100 %"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-34",
+      "question": "Choose proper feature of permeability of blood-brain barrier (BBB):",
+      "options": [
+        "BBB is permeable for all medicinal substances",
+        "BBB is impermeable for all medicinal substances",
+        "BBB is selectively permeable for different medicinal substances"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-35",
+      "question": "Choose proper definition of biotransformation of a medicinal substance:",
+      "options": [
+        "biochemical changes of a medicinal substance in the body",
+        "accumulation of a medicinal substance in tissues",
+        "plasma protein binding",
+        "elimination of drugs and their metabolites out of the body"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-36",
+      "question": "What is excretion?",
+      "options": [
+        "biochemical changes of a medicinal substance in the body",
+        "accumulation of a medicinal substance in tissues",
+        "plasma protein binding",
+        "elimination of a drug and its metabolites out of the body"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-37",
+      "question": "Choose proper pathways of drug biotransformation in the body (types of reactions):",
+      "options": [
+        "not synthetic (metabolic transformation)",
+        "synthetic (conjugation)",
+        "anabolic",
+        "catalytic"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-38",
+      "question": "Which of the following are indices of elimination?",
+      "options": [
+        "a period of half-elimination (half-life)",
+        "blood sedimentation rate",
+        "clearance",
+        "LD/ED"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-39",
+      "question": "What is a period of half-elimination (half-life)?",
+      "options": [
+        "time during which therapeutic effect decreases on 50%",
+        "time during which drug concentration in blood plasma decreases on 50%",
+        "time during which a drug is registered in blood plasma"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-40",
+      "question": "What is systemic action of a drug?",
+      "options": [
+        "its action after absorption into the blood",
+        "its action at the place of application",
+        "its action on sensory receptors with development of reflex response in internal organs"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-41",
+      "question": "What is local action of a drug?",
+      "options": [
+        "its action after absorption into the blood",
+        "its action at the place of application",
+        "its action on sensory receptors with the development of reflex response in internal organs"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-42",
+      "question": "What is reflex action of drug?",
+      "options": [
+        "its action after absorption into the blood",
+        "its action at the place of application",
+        "its action on sensory receptors with the development of reflex response in internal organs"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-43",
+      "question": "What effects of drugs are named as main effects?",
+      "options": [
+        "effects which provide therapeutic action of a drug, relieve symptoms of disease and improve quality of life",
+        "all effects of therapeutic dose",
+        "only those effects of minimal dose of a drug"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-44",
+      "question": "Which kind of pharmacotherapy is called as etiotropic (causal) one?",
+      "options": [
+        "directed towards elimination of particular symptoms of disease",
+        "directed towards weakening of pathogenetic mechanisms of disease",
+        "directed towards elimination of cause of disease"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-45",
+      "question": "What medicinal substances are called as enzyme inducers?",
+      "options": [
+        "drugs which increase synthesis of enzymes and their activity",
+        "drugs which decrease activity of enzymes",
+        "drugs used for replacement therapy in enzyme deficiency"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-46",
+      "question": "What medicinal substances are called as enzyme inhibitors?",
+      "options": [
+        "drugs which increase synthesis of enzymes",
+        "drugs which decrease activity of enzymes",
+        "drugs used for replacement therapy of enzyme deficiency"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-47",
+      "question": "What is a prodrug?",
+      "options": [
+        "a substance which is metabolized in the body and losses pharmacological activity",
+        "a substance which is metabolized in the body and gets pharmacological activity",
+        "a drug which does not undergo metabolic transformation in the body"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-48",
+      "question": "What is cumulation?",
+      "options": [
+        "accumulation (storage) of a drug in the body",
+        "hypersensitivity of the body to a drug",
+        "process of drug metabolism"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-49",
+      "question": "Choose proper kinds of drug cumulation:",
+      "options": [
+        "physiological",
+        "pathological",
+        "material",
+        "functional"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-50",
+      "question": "Which reactions can occur at sudden discontinuation of a drug after long-term use?",
+      "options": [
+        "allergic ones",
+        "withdrawal syndrome",
+        "rebound syndrome",
+        "idiosyncrasy"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-51",
+      "question": "Which of the following are immuno-alergic adverse effects (type B)?",
+      "options": [
+        "anaphylactic shock",
+        "carcenogenic effect",
+        "urticaria",
+        "drug dependence",
+        "dyspepsia due to aspirin"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-52",
+      "question": "Which of the following adverse effects depend on pharmacodynamics (type A)?",
+      "options": [
+        "anaphylactic shock",
+        "carcenogenic effect",
+        "urticaria",
+        "drug dependence",
+        "dry mouth due to atropine"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "general-pharmacology-53",
+      "question": "Choose adverse effects due to long-term pharmacotherapy (type C):",
+      "options": [
+        "anaphylactic shock",
+        "cancerogenic effect",
+        "urticaria",
+        "drug dependence",
+        "dyspepsia due to aspirin"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-54",
+      "question": "Choose delayed adverse effects (type D):",
+      "options": [
+        "anaphylactic shock",
+        "carcenogenic effect",
+        "urticaria",
+        "drug dependence",
+        "dyspepsia due to application of aspirin"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-55",
+      "question": "What is embryotoxic effect?",
+      "options": [
+        "toxic action of a drug on an embryo (during the first 3 weeks of pregnancy) which result in death of the embryo in majority cases",
+        "toxic action of a drug on the fetus (from 3d to 10-12th week of pregnancy) what affects organogenesis of the fetus",
+        "toxic action of a drug on the fetus in fetal period (after 3-4 months of pregnancy)",
+        "any toxic action of a drug during pregnancy"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-56",
+      "question": "What is teratogenicity?",
+      "options": [
+        "toxic action of a drug on an embryo (during the first 3 weeks of pregnancy) which result in death of the embryo in majority cases",
+        "toxic action of a drug on the fetus (from 3d to 10-12th week of pregnancy) what affects organogenesis of the fetus",
+        "toxic action of a drug on the fetus in fetal period (after 3-4 months of pregnancy)",
+        "any toxic action of a drug during pregnancy"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-57",
+      "question": "What is fetotoxic drug action?",
+      "options": [
+        "toxic action of a drug on an embryo (during the first 3 weeks of pregnancy) which result in death of the embryo in majority cases",
+        "toxic action of a drug on the fetus (from 3d to 10-12th week of pregnancy) what affects organogenesis of the fetus",
+        "toxic action of a drug on the fetus in fetal period (after 3-4 months of pregnancy)",
+        "any toxic action of a drug during pregnancy"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-58",
+      "question": "What is minimum (threshold) therapeutic dose?",
+      "options": [
+        "amount of a drug which cause minimal therapeutic effect",
+        "amount of a drug which cause marked therapeutic effect in the majority of patients",
+        "amount of a drug which cause maximal therapeutic effect without toxic effects",
+        "amount of a drug for single administration",
+        "dose of a drug for a day",
+        "amount of a drug for a whole course of treatment"
+      ],
+      "correctAnswers": [
+        0
+      ]
+    },
+    {
+      "id": "general-pharmacology-59",
+      "question": "An average therapeutic dose is:",
+      "options": [
+        "amount of a drug which cause minimal therapeutic effect",
+        "amount of a drug which cause marked therapeutic effect in the majority of patients",
+        "amount of a drug which cause maximal therapeutic effect without toxic effects",
+        "amount of a drug for single administration",
+        "dose of a drug for a day",
+        "amount of a drug for a whole course of treatment"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-60",
+      "question": "What is maximum therapeutic dose?",
+      "options": [
+        "amount of a drug which cause minimal therapeutic effect",
+        "amount of a drug which cause marked therapeutic effect in the majority of patients",
+        "amount of a drug which cause maximal therapeutic effect without toxic effects",
+        "amount of a drug for single administration",
+        "dose of a drug for a day",
+        "amount of a drug for a whole course of treatment"
+      ],
+      "correctAnswers": [
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-61",
+      "question": "What is single dose?",
+      "options": [
+        "amount of a drug which cause minimal therapeutic effect",
+        "amount of a drug which cause marked therapeutic effect in the majority of patients",
+        "amount of a drug which cause maximal therapeutic effect without toxic effects",
+        "amount of a drug for single administration",
+        "dose of a drug for a day",
+        "amount of a drug for a whole course of treatment"
+      ],
+      "correctAnswers": [
+        3
+      ]
+    },
+    {
+      "id": "general-pharmacology-62",
+      "question": "What is daily dose?",
+      "options": [
+        "amount of a drug which cause minimal therapeutic effect",
+        "amount of a drug which cause marked therapeutic effect in the majority of patients",
+        "amount of a drug which cause maximal therapeutic effect without toxic effects",
+        "amount of a drug for single administration",
+        "dose of a drug for a day",
+        "amount of a drug for a whole course of treatment"
+      ],
+      "correctAnswers": [
+        4
+      ]
+    },
+    {
+      "id": "general-pharmacology-63",
+      "question": "What is course dose?",
+      "options": [
+        "amount of a drug which cause minimum therapeutic effect",
+        "amount of a drug which cause marked therapeutic effect in the majority of patients",
+        "amount of a drug which cause maximum therapeutic effect without toxic effects",
+        "amount of a drug for single administration",
+        "dose of a drug for a day",
+        "amount of a drug for a whole course of treatment"
+      ],
+      "correctAnswers": [
+        5
+      ]
+    },
+    {
+      "id": "general-pharmacology-64",
+      "question": "What is a purpose of knock-out (loading) dose of a drug?",
+      "options": [
+        "to prevent adverse effects",
+        "to produce therapeutic concentration of a drug in the body quickly",
+        "to prolong pharmacological effect"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-65",
+      "question": "What doses are called as toxic ones?",
+      "options": [
+        "dose which exceeds average therapeutic dose",
+        "dose which exceeds maximum therapeutic dose",
+        "dose which causes death"
+      ],
+      "correctAnswers": [
+        1
+      ]
+    },
+    {
+      "id": "general-pharmacology-66",
+      "question": "Choose correct statements:",
+      "options": [
+        "pharmacological effect depends on dose of a drug",
+        "pharmacological effect does not depend on dose of a drug",
+        "pharmacological effect depends on drug concentration",
+        "pharmacological effect does not depend on drug concentration"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "general-pharmacology-67",
+      "question": "What factors influence drug action in the body?",
+      "options": [
+        "physicochemical properties of a drug",
+        "specific features of the body",
+        "political factors",
+        "social factors",
+        "climatic conditions"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ]
+    }
+  ]
+}

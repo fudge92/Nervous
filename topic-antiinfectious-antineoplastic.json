@@ -1,0 +1,1421 @@
+{
+  "title": "6. Antiinfectious and antineoplastic drugs",
+  "questions": [
+    {
+      "id": "topic6-1",
+      "question": "Choose the most characteristic features of antiseptics:",
+      "options": [
+        "non-selective antimicrobial action",
+        "selective antimicrobial action",
+        "high toxicity",
+        "low toxicity",
+        "short latency period of their effect development",
+        "long latency period of their effect development"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-2",
+      "question": "Which of the following antiseptics are aliphatic compounds?",
+      "options": [
+        "nitrofural",
+        "ethyl alcohol",
+        "chloramine B",
+        "solution of formaldehyde",
+        "aethonium"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-3",
+      "question": "Which of the following antiseptics are dies?",
+      "options": [
+        "nitrofural",
+        "ethacridine",
+        "potassium permanganate",
+        "methylene blue",
+        "brilliant green",
+        "silver nitrate"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-4",
+      "question": "Which of the following antiseptics are oxidants?",
+      "options": [
+        "alcohol solution of Iodine",
+        "ethacridine",
+        "hydrogen peroxide",
+        "potassium permanganate",
+        "chlorhexidine"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-5",
+      "question": "Which of the following antiseptics are chlorine-containing ones?",
+      "options": [
+        "nitrofural",
+        "chloramine B",
+        "potassium permanganate",
+        "methylene blue",
+        "chlorhexidine",
+        "silver nitrate"
+      ],
+      "correctAnswers": [
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-6",
+      "question": "Which of the following antiseptics are detergents?",
+      "options": [
+        "roccal",
+        "ethonium",
+        "cetrimide",
+        "potassium permanganate",
+        "methylene blue",
+        "brilliant green",
+        "hydrogen peroxide"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-7",
+      "question": "Choose proper factors which influence activity of antiseptics and disinfectants:",
+      "options": [
+        "their concentration",
+        "their exposure",
+        "the presence of proteins in the focus of inflammation",
+        "their ability to interact with skin and mucous receptors",
+        "pH"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-8",
+      "question": "Which of the following antiseptics are used for washing surgeon’s hands?",
+      "options": [
+        "nitrofural",
+        "ethyl alcohol",
+        "silver nitrate",
+        "chlorhexidine",
+        "roccal",
+        "potassium permanganate"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-9",
+      "question": "Choose proper features of Nitrofural:",
+      "options": [
+        "irritant effect",
+        "antibacterial effect",
+        "stimulation of regeneration",
+        "inhibition of regeneration",
+        "inhibition of fungal growth"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-10",
+      "question": "Choose acid-resistant penicillins:",
+      "options": [
+        "phenoxymethylpenicillin",
+        "benzylpenicillin",
+        "bicillin-5",
+        "oxacillin",
+        "benzathine benzylpenicillin"
+      ],
+      "correctAnswers": [
+        0,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-11",
+      "question": "Choose penicillins protected from β-Lactamase action:",
+      "options": [
+        "benzylpenicillin",
+        "ampicillin",
+        "unasyn",
+        "amoksiklav",
+        "bicillin-5"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-12",
+      "question": "Choose specific features of ampicillin:",
+      "options": [
+        "it has extended spectrum of action",
+        "it has spectrum of action similar to benzylpenicillin",
+        "it is resistant to penicillinase",
+        "it is not resistant to penicillinase",
+        "it is not disintegrated in the stomach",
+        "it is disintegrated in the stomach"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-13",
+      "question": "Choose typical features of benzylpenicillin preparations:",
+      "options": [
+        "they have bactericidal action",
+        "they have bacteriostatic action",
+        "they are resistant to penicillinase",
+        "they are not resistant to penicillinase",
+        "they are not disintegrated in the stomach",
+        "they are disintegrated in the stomach",
+        "they have broad spectrum of action"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-14",
+      "question": "Name proper uses of benzylpenicillin preparations:",
+      "options": [
+        "streptococcal infections",
+        "gonorrhoea",
+        "meningitis",
+        "typhus",
+        "gas gangrene",
+        "anthrax (Siberian plague)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-15",
+      "question": "Choose semisynthetic penicillins:",
+      "options": [
+        "benzylpenicillin-sodium",
+        "carbenicillin",
+        "ampicillin",
+        "oxacillin",
+        "benzathine benzylpenicillin"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-16",
+      "question": "Choose antipseudomonal penicillins:",
+      "options": [
+        "benzylpenicillin-sodium",
+        "carbenicillin",
+        "piperacillin",
+        "ampicillin",
+        "oxacillin"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-17",
+      "question": "Choose cephalosporins:",
+      "options": [
+        "cefotaxime",
+        "erythromycin",
+        "ceftriaxone",
+        "amikacin",
+        "cefuroxime",
+        "ciprofloxacin"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-18",
+      "question": "Choose WRONG feature of I generation cephalosporins:",
+      "options": [
+        "they have bactericidal action",
+        "they are β-lactam antibiotics",
+        "they have narrow spectrum of action",
+        "they are beta lactamase resistant"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-19",
+      "question": "Choose WRONG feature of IV generation cephalosporins:",
+      "options": [
+        "they have bactericidal action",
+        "they are β-lactam antibiotics",
+        "they have narrow spectrum of action",
+        "they are beta lactamase resistant",
+        "they are reserve antibiotics"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-20",
+      "question": "Choose proper drugs of III generation cephalosporines",
+      "options": [
+        "cefazolin",
+        "cefuroxime",
+        "cefotaxime",
+        "cefoperazone",
+        "cefepime"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-21",
+      "question": "Choose carbapenems among the following β-lactam antibiotics:",
+      "options": [
+        "aztreonam",
+        "amoxicillin",
+        "azlocillin",
+        "imipenem",
+        "meropenem",
+        "cefixime"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-22",
+      "question": "Choose aminoglycoside antibiotics:",
+      "options": [
+        "streptomycin",
+        "oxacillin",
+        "cefalexin",
+        "gentamicin",
+        "amikacin"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-23",
+      "question": "Choose aminoglycosides of the 3rd generation:",
+      "options": [
+        "amikacin",
+        "streptomycin",
+        "tobramycin",
+        "gentamicin",
+        "neomycin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-24",
+      "question": "Choose proper adverse effects of aminoglycosides:",
+      "options": [
+        "nephrotoxicity",
+        "ototoxicity (cochlear damage)",
+        "hepatotoxicity",
+        "vestibular damage",
+        "neuromuscular block",
+        "bone marrow depression (hematotoxicity)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-25",
+      "question": "Choose WRONG effect in co-administration of streptomycin and gentamicin:",
+      "options": [
+        "enhancement of antimicrobial action",
+        "enhancement of ototoxicity",
+        "enhancement of neuromuscular blockage action (curare-like action)",
+        "enhancement of hepatotoxicity",
+        "enhancement of nephrotoxicity"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-26",
+      "question": "Which of the following drugs are semisynthetic macrolides?",
+      "options": [
+        "erythromycin",
+        "spiramycin",
+        "josamycin",
+        "azythromycin",
+        "clarithromycin",
+        "roxithromycin"
+      ],
+      "correctAnswers": [
+        3,
+        4,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-27",
+      "question": "Choose proper features of macrolides:",
+      "options": [
+        "they have bacteriostatic action",
+        "they have bactericidal action",
+        "they have high toxicity",
+        "they have low toxicity",
+        "they impair protein synthesis in ribosomes of microorganisms",
+        "they impair the formation of cellular wall of microorganisms"
+      ],
+      "correctAnswers": [
+        0,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-28",
+      "question": "Choose proper features which differ azithromycin from erythromycin:",
+      "options": [
+        "it is aminoglycoside antibiotic",
+        "it has prolonged action",
+        "it penetrates into host cells and acts on intracellular microorganisms",
+        "it has broader spectrum of action",
+        "it has poor absorptive ability from the gastrointestinal tract"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-29",
+      "question": "Choose WRONG adverse effect of chloramphenicol:",
+      "options": [
+        "inhibition of haemopoiesis",
+        "dermatitis",
+        "acute psychosis",
+        "myocarditis",
+        "osteoporosis"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-30",
+      "question": "Choose proper basic pharmacokinetic principles of antibiotic therapy:",
+      "options": [
+        "choice of proper drug dose",
+        "choice of proper route of administration",
+        "minimum doses must be administered to reduce toxicity of antibiotic",
+        "choice of proper schedule of antibiotic therapy"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-31",
+      "question": "Choose proper features of nalidixic acid:",
+      "options": [
+        "broad spectrum of antimicrobial action",
+        "action on gram-positive bacteria",
+        "action on gram-negative bacteria",
+        "good absorption from the g.i.t.",
+        "poor absorption from the g.i.t.",
+        "excretion mainly through kidneys"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-32",
+      "question": "Choose fluoroquinolones among the following drugs:",
+      "options": [
+        "ciprofloxacin",
+        "amoxicillin",
+        "norfloxacin",
+        "nalidixic acid",
+        "lomefloxacin",
+        "furazolidone"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-33",
+      "question": "Choose proper features of fluoroquinolones:",
+      "options": [
+        "they are quickly absorbed from the gastrointestinal tract",
+        "they penetrate into tissues well",
+        "they bind to plasma albumins badly",
+        "they disturb cartilaginous tissue formation",
+        "they have short-term action"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-34",
+      "question": "Find wrong statement regarding ofloxacin:",
+      "options": [
+        "it has bactericidal action",
+        "it disturbs the superhelix of DNA due to DNA-gyrase block",
+        "it has broad antibacterial spectrum",
+        "it is widely used for respiratory tract, urinary bladder, biliary tract infections and bacterial skin and soft tissue infections.",
+        "it inhibits synthesis of cell wall of bacteria"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-35",
+      "question": "Find wrong statement regarding ciprofloxacin:",
+      "options": [
+        "it has bactericidal action",
+        "it has marked resorbtive action",
+        "its action is short-term (till 2 hours)",
+        "it penetrates to organs and tissues well",
+        "it is highly effective in renal infections"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-36",
+      "question": "Choose proper preventive measures to avoid crystalluria due to sulfonamide action:",
+      "options": [
+        "sulfonamides are administered before meal",
+        "sulfonamides should be taken with a large amount of fluid and coadministered with acetazolamide",
+        "sulfonamides should be taken with alkaline mineral water",
+        "sulfonamides should be co-administered with ascorbic acid",
+        "all the statements are correct"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-37",
+      "question": "Choose proper mechanism of antimicrobial action of sulfonamides:",
+      "options": [
+        "impairment of permeability of cellular membrane",
+        "competitive antagonism with PABA",
+        "inhibition of enzyme activity of microorganisms",
+        "coagulation of protoplasm proteins",
+        "all the statements are correct"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-38",
+      "question": "Choose combined sulfonamides among the following agents:",
+      "options": [
+        "sulfamethoxazole",
+        "sulfadimidine",
+        "sulfamonomethoxine",
+        "co-trimoxazole",
+        "sulfaton (sulfamonomethoxine/trimethoprim)"
+      ],
+      "correctAnswers": [
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-39",
+      "question": "Choose wrong statement for co-trimoxazole action:",
+      "options": [
+        "co-trimoxazole impairs conversion of PABA to dihydrofolic acid",
+        "co-trimoxazole blocks dihydrofolate reductase and impairs synthesis of tetrahydrofolic acid",
+        "co-trimoxazole inhibits methylation of uridine",
+        "co-trimoxazole blocks superhelix of DNA",
+        "co-trimoxazole impairs cell replication"
+      ],
+      "correctAnswers": [
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-40",
+      "question": "Why does trimethoprim increase antibacterial activity of sulfonamides?",
+      "options": [
+        "trimethoprim provides consumption of sulfonamides by microorganisms",
+        "trimethoprim inhibits synthesis of nucleotides in microbial cell",
+        "trimethoprim decelerates sulfonamide elimination"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-41",
+      "question": "Choose proper adverse effects of sulfonamides:",
+      "options": [
+        "anemia",
+        "thrombocytopenia",
+        "crystalluria",
+        "loss of hearing",
+        "loss of vision"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-42",
+      "question": "Choose local sulfonamide among the following agents:",
+      "options": [
+        "sulfamethoxypyridazine",
+        "phthalylsulfathiazole",
+        "sulfadimidine",
+        "sulfaguanidine",
+        "sulfalene",
+        "sulfacetamide sodium"
+      ],
+      "correctAnswers": [
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-43",
+      "question": "Choose proper features of furazolidone:",
+      "options": [
+        "it is well absorbed from the gastrointestinal tract",
+        "it is badly absorbed from the gastrointestinal tract",
+        "it is used for gastrointestinal bacterial infections and lambliasis",
+        "it is used in urinary tract infections",
+        "it can cause disulfiram-like reaction"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-44",
+      "question": "Choose WRONG indication for Furazolidone administration:",
+      "options": [
+        "bacillary dysentery (shigellosis)",
+        "trichomoniasis",
+        "amebic dysentery",
+        "lambliasis",
+        "food intoxication"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-45",
+      "question": "Choose drugs used for treatment of urinary tract infections:",
+      "options": [
+        "nitroxoline",
+        "nalidixic acid",
+        "nitrofurantoin",
+        "furazolidone",
+        "furazidin",
+        "ambazone"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-46",
+      "question": "Choose proper features for Linezolid:",
+      "options": [
+        "this is oxazolidinone",
+        "this is fluoroquinolone",
+        "it acts on Gr+ microorganisms",
+        "it acts on Gr- microorganisms",
+        "it inhibits early stage of bacterial protein synthesis",
+        "it competes with PABA"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-47",
+      "question": "Choose proper mechanism of metronidazole:",
+      "options": [
+        "It inhibits nucleic acids due to nitrogroup",
+        "it decreases permeability of cell membrane",
+        "it inhibits synthesis of tetrahydrofolic acid",
+        "it inhibits protein synthesis on microbial ribosomes"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-48",
+      "question": "Choose antitubercular drug which inhibits synthesis of mycolic acids in cell wall of M. tuberculosis:",
+      "options": [
+        "rifampicin",
+        "streptomycin",
+        "isoniazid",
+        "paraaminosalicylic acid",
+        "cycloserine"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-49",
+      "question": "Choose antibiotics for treatment of tuberculosis:",
+      "options": [
+        "polymyxin",
+        "rifampicin",
+        "streptomycin",
+        "kanamycin",
+        "dactinomycin"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-50",
+      "question": "Choose proper features of isoniazid:",
+      "options": [
+        "it has broad spectrum of antimicrobial action",
+        "it has selective action on M. tuberculosis",
+        "it is well absorbed from the gastrointestinal tract",
+        "it is badly absorbed from the gastrointestinal tract",
+        "it passes through blood-brain barrier"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-51",
+      "question": "Choose characteristic features of rifampicin:",
+      "options": [
+        "broad spectrum of antimicrobial activity",
+        "it is active only against Mycobacterium tuberculosis",
+        "good absorption from the gastrointestinal tract",
+        "poor absorption from the gastrointestinal tract",
+        "it inhibits RNA synthesis",
+        "it inhibits the synthesis of mycolic acids"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-52",
+      "question": "Choose isonicotinic acid hydrazides among the following drugs:",
+      "options": [
+        "ethionamide",
+        "ethambutol",
+        "isoniazid",
+        "ftivazide",
+        "opiniazid"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-53",
+      "question": "Choose highly effective anti-tuberculosis drugs:",
+      "options": [
+        "ethionamide",
+        "ethambutol",
+        "isoniazid",
+        "rifampicin",
+        "thioacetazone"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-54",
+      "question": "Choose proper aims of combination of anti-tuberculosis drugs:",
+      "options": [
+        "to increase the duration of action of drugs",
+        "to reduce toxic reactions",
+        "to increase the effectiveness of pharmacotherapy",
+        "to prevent the development of pathogen resistance"
+      ],
+      "correctAnswers": [
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-55",
+      "question": "Which of the following antifungal drugs can be administered orally?",
+      "options": [
+        "nitrofungin",
+        "nystatin",
+        "griseofulvin",
+        "clotrimazole"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-56",
+      "question": "Which of the following antibiotics are antifungal?",
+      "options": [
+        "amphotericin B",
+        "nystatin",
+        "griseofulvin",
+        "olivomycin",
+        "vincristine"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-57",
+      "question": "Which of the following drugs are used for the treatment of candidiasis?",
+      "options": [
+        "griseofulvin",
+        "fluconazole",
+        "nystatin",
+        "clotrimazole",
+        "nitrofungin"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-58",
+      "question": "Choose pathogens which are sensitive to nystatin:",
+      "options": [
+        "pathogens of systemic mycoses",
+        "pathogens of dermatomycoses",
+        "pathogen of candidiasis"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-59",
+      "question": "Choose proper features of nystatin:",
+      "options": [
+        "it is well absorbed from the gastrointestinal tract",
+        "it is badly absorbed from the gastrointestinal tract",
+        "it has low toxicity",
+        "it has high toxicity",
+        "it is used for treatment of candidiasis",
+        "it is used for treatment of dermatomycoses"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-60",
+      "question": "Which of following drugs are effective for treatment of systemic mycoses?",
+      "options": [
+        "amphotericin B",
+        "ketoconazole",
+        "fluconazole",
+        "nystatin",
+        "terbinafine",
+        "clotrimazole"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-61",
+      "question": "Choose drugs used for treatment and prophylaxis of malaria:",
+      "options": [
+        "streptomycin",
+        "isoniazid",
+        "chloroquine",
+        "primaquine",
+        "pyrimethamine"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-62",
+      "question": "Choose proper drugs for social chemoprophylaxis of malaria the following:",
+      "options": [
+        "gametocidal drugs",
+        "erythrocytic schizontocids",
+        "tissue schizontocids"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-63",
+      "question": "Choose proper mechanism of action of chloroquine:",
+      "options": [
+        "disruption of the permeability of the plasmodium cell membrane",
+        "inhibition of folic acid synthesis",
+        "blockade of plasmodium polymerase, necessary for the utilization of hemoglobin"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-64",
+      "question": "Which of the following drugs can act on amoebas of any localization?",
+      "options": [
+        "tetracycline",
+        "metronidazole",
+        "chloroquine (chingamine)",
+        "diloxanide"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-65",
+      "question": "Choose the drug of choice for the treatment of giardiasis:",
+      "options": [
+        "metronidazole",
+        "co-trimoxazole",
+        "mepacrine",
+        "chloroquine"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-66",
+      "question": "Choose microorganisms which are NOT sensitive to Metronidazole:",
+      "options": [
+        "lamblia",
+        "trichomonas",
+        "amoebas",
+        "campilobacteria",
+        "spirochetes"
+      ],
+      "correctAnswers": [
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-67",
+      "question": "Which of the following drugs are used for enterobiosis?",
+      "options": [
+        "mebendazole",
+        "pyrantel",
+        "piperazine adipate",
+        "phthalylsulfathiazole",
+        "metronidazole",
+        "nystatin"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-68",
+      "question": "Choose drugs for treatment of intestinal cestodosis:",
+      "options": [
+        "piperazine adipate",
+        "niclosamide",
+        "praziquantel",
+        "pyrantel",
+        "levamisole",
+        "metronidazole"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-69",
+      "question": "Choose characteristic features of levamisole:",
+      "options": [
+        "it used for abenteric trematodes",
+        "it is used for intestinal nematodes",
+        "it disrupts the metabolism of roundworms by blocking fumarate reductase",
+        "it causes paralysis of the muscles of roundworms",
+        "it is an immunomodulator"
+      ],
+      "correctAnswers": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-70",
+      "question": "Choose drugs which inhibit neuromuscular transmission in nematodes:",
+      "options": [
+        "praziquantel",
+        "pyrantel",
+        "piperazine",
+        "niclosamide (phenasal)"
+      ],
+      "correctAnswers": [
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-71",
+      "question": "Choose broad-spectrum anthelmintic drugs:",
+      "options": [
+        "mebendazole",
+        "pyrantel",
+        "praziquantel",
+        "diethylcarbamazine",
+        "levamisole"
+      ],
+      "correctAnswers": [
+        0,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-72",
+      "question": "Choose drugs for ascariasis:",
+      "options": [
+        "mebendazole",
+        "pyrantel",
+        "levamisole",
+        "niclosamide",
+        "metronidazole",
+        "praziquantel"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-73",
+      "question": "Choose drugs for abenteric helminthiasis:",
+      "options": [
+        "albendazole",
+        "diethylcarbamazine",
+        "niclosamide",
+        "pyrantel",
+        "praziquantel"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-74",
+      "question": "Choose proper statements for Praziquantel:",
+      "options": [
+        "drug of choice for the treatment of trematodes",
+        "drug of choice for intestinal cestodes",
+        "drug of choice for intestinal nematodes",
+        "it paralyzes the muscles of round helminths",
+        "it paralyzes the muscles of flat helminths"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-75",
+      "question": "Choose proper drugs for prophylaxis of influenza:",
+      "options": [
+        "co-trimoxazole",
+        "rimantadine (remantadine)",
+        "paracetamol",
+        "arbidol",
+        "interferon",
+        "aciclovir"
+      ],
+      "correctAnswers": [
+        1,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-76",
+      "question": "Choose drugs which prevent from adhesion of viruses on cell membranes and prevents from virus penetration into the cells.",
+      "options": [
+        "rimantadine (remantadine)",
+        "zidovudine",
+        "amantadine",
+        "oxoline",
+        "aciclovir"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        3
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-77",
+      "question": "Choose drug which inhibits formation of smallpox virions by block of synthesis of structural viral proteins:",
+      "options": [
+        "zidovudine",
+        "aciclovir",
+        "methisazone",
+        "amantadine",
+        "interferon",
+        "rimantadine (remantadine)"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-78",
+      "question": "Choose drugs for stimulation of interferon synthesis:",
+      "options": [
+        "arbidol",
+        "bendazol",
+        "poludan",
+        "aciclovir",
+        "rimantadine (remantadine)",
+        "ganciclovir"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-79",
+      "question": "Choose drugs with antiherpetic action:",
+      "options": [
+        "arbidol",
+        "rimantadine (remantadine)",
+        "aciclovir",
+        "valaciclovir",
+        "idoxuridine",
+        "zidovudine (azidothymidine)"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-80",
+      "question": "Choose reverse transcriptase inhibitors of oncornaviruses used for HIV treatment:",
+      "options": [
+        "aciclovir",
+        "zidovudine",
+        "amantadine",
+        "idoxuridine",
+        "arbidol",
+        "zalcitabine"
+      ],
+      "correctAnswers": [
+        1,
+        5
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-81",
+      "question": "Choose anticancer antibiotics:",
+      "options": [
+        "dactinomycin",
+        "doxorubicin",
+        "olivomycin",
+        "kanamycin",
+        "mercaptopurine",
+        "roxithromycin"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-82",
+      "question": "Choose proper mechanism of mercaptopurine:",
+      "options": [
+        "block of sulfhydryl groups",
+        "antagonism with purine bases",
+        "antagonism with folic acid",
+        "alkylating action",
+        "induction of free radicals"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-83",
+      "question": "Choose proper anticancer group for Cyclophosphamide:",
+      "options": [
+        "antimetabolite",
+        "antineoplastic antibiotic",
+        "alkylating drug",
+        "vegetable alkaloid",
+        "antagonist of hormones"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-84",
+      "question": "Which of the following drugs are alkylating agents?",
+      "options": [
+        "thiophosphamide",
+        "cyclophosphamide",
+        "busulfan (myelosan)",
+        "methotrexate",
+        "cisplatin",
+        "demecolcine (colchamine)"
+      ],
+      "correctAnswers": [
+        0,
+        1,
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-85",
+      "question": "Choose proper mechanism of alkylating drugs:",
+      "options": [
+        "disturbance of stability and replication of DNA",
+        "disturbance of nucleic acid synthesis"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "topic6-86",
+      "question": "Which of the following antineoplastic drugs are antimetabolites?",
+      "options": [
+        "vincristine",
+        "cyclophosphamide",
+        "mercaptopurine",
+        "methotrexate",
+        "5-fluorouracil"
+      ],
+      "correctAnswers": [
+        2,
+        3,
+        4
+      ],
+      "explanation": ""
+    }
+  ]
+}
