@@ -1,0 +1,264 @@
+{
+  "title": "Hepatic test",
+  "questions": [
+    {
+      "id": "hepatic-1",
+      "question": "Hepatic jaundice is characterized:",
+      "options": [
+        "increase in blood of unconjugated bilirubin and urobilinogen",
+        "increase in blood conjugated bilirubin, bile acids and cholesterol",
+        "increase in urinary content of urobilin in stool stercobilin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-2",
+      "question": "Hemolitic jaundice is characterized:",
+      "options": [
+        "increase in blood conjugated bilirubin, bile acids and cholesterol",
+        "increase in urine in the content of urobilin, in stool stercobilin, in the blood unconjugated bilirubin"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-3",
+      "question": "Pigment to improve dark color to urine in jaundice",
+      "options": [
+        "conjugated bilirubin",
+        "unconjugated bilirubin",
+        "urobilin",
+        "stercobilin"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-4",
+      "question": "The appearance of ascites in liver failure develop due to:",
+      "options": [
+        "hypoalbuminemia",
+        "portal hypertension",
+        "heart failure"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-5",
+      "question": "What causes of prerahepatic jaundice?",
+      "options": [
+        "effect of ionizing radiation on the body",
+        "effect of high external temperature",
+        "hemolytic poisons",
+        "acidosis"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-6",
+      "question": "Intrahepatic jaundice occurs when:",
+      "options": [
+        "action of hepatotropic poisons",
+        "effect of viral infection on the liver",
+        "acute radiation sickness",
+        "transfusion of incompatible blood"
+      ],
+      "correctAnswers": [
+        0,
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-7",
+      "question": "Posthepatic jaundice occurs with:",
+      "options": [
+        "biliary dyskinesia",
+        "effect on the liver of a viral infection",
+        "gallstone disease",
+        "tumors of the stomach",
+        "tumors of the Fatter papilla"
+      ],
+      "correctAnswers": [
+        0,
+        2,
+        4
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-8",
+      "question": "What pathogenesis of jaundice is fecal discoloration possible?",
+      "options": [
+        "prehepatic jaundice",
+        "hepatocellular jaundice",
+        "posthepatic jaundic"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-9",
+      "question": "Normally, bilirubin circulating in the blood is associated with:",
+      "options": [
+        "blood albumin",
+        "blood globulins",
+        "with a specific carrier protein"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-10",
+      "question": "Indicate what type of jaundice develops during transfusion of incompatible blood:",
+      "options": [
+        "prerahepatic",
+        "hepatic",
+        "posthepatic"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-11",
+      "question": "What type of jaundice develops in the patient due to the presence of stones in the common bile duct:",
+      "options": [
+        "hepatic",
+        "prehepatic",
+        "posthepatic"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-12",
+      "question": "The most common cause of chronic hepatitis are",
+      "options": [
+        "viruses",
+        "bacteria",
+        "helminths",
+        "rickettsia"
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-13",
+      "question": "The presence of bile salts in the blood causes",
+      "options": [
+        "tachycardia",
+        "bradycardia",
+        "fever",
+        "high blood pressure"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-14",
+      "question": "What is the reason for the deficiency of fat-soluble vitamins in hepatic cell failure?",
+      "options": [
+        "pancreatic trypsin deficiency",
+        "deficiency of bile and a decrease in the emulsification of fats in the intestine",
+        "enhanced emulsification of fat in the intestines"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-15",
+      "question": "In what organs is direct (conjugated) bilirubin formed?",
+      "options": [
+        "lungs",
+        "muscles",
+        "liver",
+        "kidneys"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-16",
+      "question": "Where is stercobilinogen formed?",
+      "options": [
+        "liver",
+        "kidneys",
+        "intestines"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-17",
+      "question": "What is mechanism itching formation in obstructive jaundice?",
+      "options": [
+        "decrease in the blood and tissues of bile acids",
+        "increase in the blood and tissues of bile acids"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-18",
+      "question": "Name the second stage of hepatic encephalopathy?",
+      "options": [
+        "prodromal stage",
+        "stupor",
+        "beginning coma",
+        "coma"
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "hepatic-19",
+      "question": "Name the third stage of hepatic encephalopathy?",
+      "options": [
+        "prodromal stage",
+        "stupor",
+        "beginning coma",
+        "coma"
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
